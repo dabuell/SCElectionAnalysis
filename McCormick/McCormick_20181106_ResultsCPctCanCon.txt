@@ -1,0 +1,1295 @@
+Results by Pct for McCormick
+
+
+
+   107 0001 AMENDMENT_1                         No                                 
+     3 0001 AMENDMENT_1                         UNDERVOTE                                141 UNDERVOTEA
+    31 0001 AMENDMENT_1                         Yes                                
+
+    20 0001 Attorney_General                    Alan_Wilson                        
+   118 0001 Attorney_General                    Constance_Anastopoulo              
+     3 0001 Attorney_General                    UNDERVOTE                                141 UNDERVOTEA
+
+     1 0001 CON0003_U.S._House_of_Representatives Dave_Moore                         
+    22 0001 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+   117 0001 CON0003_U.S._House_of_Representatives Mary_Geren                         
+     1 0001 CON0003_U.S._House_of_Representatives UNDERVOTE                                141 UNDERVOTEA
+
+    55 0001 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+     2 0001 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                141 UNDERVOTEA
+    84 0001 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+    54 0001 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+     3 0001 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                141 UNDERVOTEA
+    84 0001 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+    23 0001 Commissioner_of_Agriculture         Chris_Nelums                       
+    14 0001 Commissioner_of_Agriculture         David_Edmond                       
+    27 0001 Commissioner_of_Agriculture         Hugh_Weathers                      
+    77 0001 Commissioner_of_Agriculture         UNDERVOTE                                141 UNDERVOTEA
+
+    42 0001 Comptroller_General                 Richard_Eckstrom                   
+    99 0001 Comptroller_General                 UNDERVOTE                                141 UNDERVOTEA
+
+    15 0001 County_Auditor                      UNDERVOTE                                141 UNDERVOTEA
+   126 0001 County_Auditor                      Virginia_Cooter_Edmunds            
+
+   124 0001 County_Treasurer                    Mary_Gable_Shirley                 
+    17 0001 County_Treasurer                    UNDERVOTE                                141 UNDERVOTEA
+
+    24 0001 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+   115 0001 Governor_and_Lieutenant_Governor    James_Smith                        
+     2 0001 Governor_and_Lieutenant_Governor    UNDERVOTE                                141 UNDERVOTEA
+
+   126 0001 HOU0012_State_House_of_Representatives Anne_Parks                         
+    15 0001 HOU0012_State_House_of_Representatives UNDERVOTE                                141 UNDERVOTEA
+
+   126 0001 Probate_Judge                       Kathryne_Kitty_Butler              
+    15 0001 Probate_Judge                       UNDERVOTE                                141 UNDERVOTEA
+
+   100 0001 STRAIGHT_PARTY                      Democratic                         
+    16 0001 STRAIGHT_PARTY                      Republican                         
+    25 0001 STRAIGHT_PARTY                      UNDERVOTE                                141 UNDERVOTEA
+
+    66 0001 School_Board_At_Large               Al_Bell                            
+    24 0001 School_Board_At_Large               Ansel_Fambrough                    
+    33 0001 School_Board_At_Large               Frank_Kenny_Puckett                
+    28 0001 School_Board_At_Large               Janie_J_Martin                     
+    19 0001 School_Board_At_Large               Melody_Wilt                        
+    60 0001 School_Board_At_Large               R_C_Holloway                       
+  -144 0001 School_Board_At_Large               UNDERVOTE                                141 UNDERVOTEA
+    55 0001 School_Board_At_Large               Verteema_S_Chiles                  
+
+    21 0001 Secretary_of_State                  Mark_Hammond                       
+   119 0001 Secretary_of_State                  Melvin_T_Whittenburg               
+     1 0001 Secretary_of_State                  UNDERVOTE                                141 UNDERVOTEA
+
+    49 0001 Soil_and_Water_District_Commissioner Edward_Deason                      
+    43 0001 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+    49 0001 Soil_and_Water_District_Commissioner UNDERVOTE                                141 UNDERVOTEA
+
+   116 0001 State_Superintendent_of_Education   Israel_Romero                      
+    23 0001 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+     2 0001 State_Superintendent_of_Education   UNDERVOTE                                141 UNDERVOTEA
+
+    24 0001 State_Treasurer                     Curtis_Loftis                      
+     3 0001 State_Treasurer                     Rosalyn_Glenn                      
+   113 0001 State_Treasurer                     Rosalyn_L_Glenn                    
+     1 0001 State_Treasurer                     UNDERVOTE                                141 UNDERVOTEA
+
+
+    97 0002 AMENDMENT_1                         No                                 
+     8 0002 AMENDMENT_1                         UNDERVOTE                                243 UNDERVOTEA
+   138 0002 AMENDMENT_1                         Yes                                
+
+   181 0002 Attorney_General                    Alan_Wilson                        
+    60 0002 Attorney_General                    Constance_Anastopoulo              
+     2 0002 Attorney_General                    UNDERVOTE                                243 UNDERVOTEA
+
+     4 0002 CON0003_U.S._House_of_Representatives Dave_Moore                         
+   180 0002 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+    58 0002 CON0003_U.S._House_of_Representatives Mary_Geren                         
+     1 0002 CON0003_U.S._House_of_Representatives UNDERVOTE                                243 UNDERVOTEA
+
+    50 0002 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+     4 0002 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                243 UNDERVOTEA
+   189 0002 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+    36 0002 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+     4 0002 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                243 UNDERVOTEA
+   203 0002 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+     2 0002 Commissioner_of_Agriculture         Chris_Nelums                       
+    27 0002 Commissioner_of_Agriculture         David_Edmond                       
+   184 0002 Commissioner_of_Agriculture         Hugh_Weathers                      
+    29 0002 Commissioner_of_Agriculture         UNDERVOTE                                243 UNDERVOTEA
+     1 0002 Commissioner_of_Agriculture         W/I                                
+
+   201 0002 Comptroller_General                 Richard_Eckstrom                   
+    39 0002 Comptroller_General                 UNDERVOTE                                243 UNDERVOTEA
+     1 0002 Comptroller_General                 W/I                                
+     1 0002 Comptroller_General                 W/I_DR_MICHELE_PHILLIPS            
+     1 0002 Comptroller_General                 W/I_MICKEY_MOUSE                   
+
+   130 0002 County_Auditor                      UNDERVOTE                                243 UNDERVOTEA
+   113 0002 County_Auditor                      Virginia_Cooter_Edmunds            
+
+   119 0002 County_Treasurer                    Mary_Gable_Shirley                 
+   124 0002 County_Treasurer                    UNDERVOTE                                243 UNDERVOTEA
+
+   176 0002 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+    63 0002 Governor_and_Lieutenant_Governor    James_Smith                        
+     4 0002 Governor_and_Lieutenant_Governor    UNDERVOTE                                243 UNDERVOTEA
+
+    94 0002 HOU0012_State_House_of_Representatives Anne_Parks                         
+   142 0002 HOU0012_State_House_of_Representatives UNDERVOTE                                243 UNDERVOTEA
+     1 0002 HOU0012_State_House_of_Representatives W/I_ANY_ONE_ELSE                   
+     1 0002 HOU0012_State_House_of_Representatives W/I_DELA_HOWE                      
+     1 0002 HOU0012_State_House_of_Representatives W/I_MARK_MILLER                    
+     1 0002 HOU0012_State_House_of_Representatives W/I_MARY_SMITH                     
+     1 0002 HOU0012_State_House_of_Representatives W/I_MICKY_MOUSE                    
+     1 0002 HOU0012_State_House_of_Representatives W/I_RONNIE_KIDD                    
+     1 0002 HOU0012_State_House_of_Representatives W/I_WALLACE_CHAPMAN                
+
+   122 0002 Probate_Judge                       Kathryne_Kitty_Butler              
+   120 0002 Probate_Judge                       UNDERVOTE                                243 UNDERVOTEA
+     1 0002 Probate_Judge                       W/I_RONNIE_KIDD                    
+
+     1 0002 STRAIGHT_PARTY                      American                           
+    22 0002 STRAIGHT_PARTY                      Democratic                         
+   102 0002 STRAIGHT_PARTY                      Republican                         
+   118 0002 STRAIGHT_PARTY                      UNDERVOTE                                243 UNDERVOTEA
+
+    35 0002 School_Board_At_Large               Al_Bell                            
+    18 0002 School_Board_At_Large               Ansel_Fambrough                    
+    22 0002 School_Board_At_Large               Frank_Kenny_Puckett                
+   182 0002 School_Board_At_Large               Janie_J_Martin                     
+   178 0002 School_Board_At_Large               Melody_Wilt                        
+    12 0002 School_Board_At_Large               R_C_Holloway                       
+  -233 0002 School_Board_At_Large               UNDERVOTE                                243 UNDERVOTEA
+    28 0002 School_Board_At_Large               Verteema_S_Chiles                  
+     1 0002 School_Board_At_Large               W/I                                
+
+   181 0002 Secretary_of_State                  Mark_Hammond                       
+    59 0002 Secretary_of_State                  Melvin_T_Whittenburg               
+     3 0002 Secretary_of_State                  UNDERVOTE                                243 UNDERVOTEA
+
+   117 0002 Soil_and_Water_District_Commissioner Edward_Deason                      
+    88 0002 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+    36 0002 Soil_and_Water_District_Commissioner UNDERVOTE                                243 UNDERVOTEA
+     1 0002 Soil_and_Water_District_Commissioner W/I                                
+     1 0002 Soil_and_Water_District_Commissioner W/I_>                              
+
+    52 0002 State_Superintendent_of_Education   Israel_Romero                      
+   187 0002 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+     3 0002 State_Superintendent_of_Education   UNDERVOTE                                243 UNDERVOTEA
+     1 0002 State_Superintendent_of_Education   W/I_DR._MICHELE_PHILLIPS           
+
+   178 0002 State_Treasurer                     Curtis_Loftis                      
+     2 0002 State_Treasurer                     Rosalyn_Glenn                      
+    54 0002 State_Treasurer                     Rosalyn_L_Glenn                    
+     6 0002 State_Treasurer                     Sarah_Work                         
+     3 0002 State_Treasurer                     UNDERVOTE                                243 UNDERVOTEA
+
+
+   319 0003 AMENDMENT_1                         No                                 
+    33 0003 AMENDMENT_1                         UNDERVOTE                                798 UNDERVOTEA
+   446 0003 AMENDMENT_1                         Yes                                
+
+   609 0003 Attorney_General                    Alan_Wilson                        
+   164 0003 Attorney_General                    Constance_Anastopoulo              
+    25 0003 Attorney_General                    UNDERVOTE                                798 UNDERVOTEA
+
+     2 0003 CON0003_U.S._House_of_Representatives Dave_Moore                         
+   621 0003 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+   163 0003 CON0003_U.S._House_of_Representatives Mary_Geren                         
+    12 0003 CON0003_U.S._House_of_Representatives UNDERVOTE                                798 UNDERVOTEA
+
+   159 0003 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+    27 0003 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                798 UNDERVOTEA
+   612 0003 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+   152 0003 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+    22 0003 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                798 UNDERVOTEA
+   624 0003 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+   143 0003 CYCL002_County_Council_District_2   Bernie_Hamby                       
+   655 0003 CYCL002_County_Council_District_2   UNDERVOTE                                798 UNDERVOTEA
+
+    20 0003 Commissioner_of_Agriculture         Chris_Nelums                       
+    58 0003 Commissioner_of_Agriculture         David_Edmond                       
+   629 0003 Commissioner_of_Agriculture         Hugh_Weathers                      
+    91 0003 Commissioner_of_Agriculture         UNDERVOTE                                798 UNDERVOTEA
+
+   657 0003 Comptroller_General                 Richard_Eckstrom                   
+   140 0003 Comptroller_General                 UNDERVOTE                                798 UNDERVOTEA
+     1 0003 Comptroller_General                 W/I_GEORGE                         
+
+   456 0003 County_Auditor                      UNDERVOTE                                798 UNDERVOTEA
+   339 0003 County_Auditor                      Virginia_Cooter_Edmunds            
+     1 0003 County_Auditor                      W/I_ALAN_JOHNSON                   
+     1 0003 County_Auditor                      W/I_ANYONE                         
+     1 0003 County_Auditor                      W/I_TRACY_WALKER                   
+
+   348 0003 County_Treasurer                    Mary_Gable_Shirley                 
+   447 0003 County_Treasurer                    UNDERVOTE                                798 UNDERVOTEA
+     1 0003 County_Treasurer                    W/I_ANYONE                         
+     1 0003 County_Treasurer                    W/I_DOIVE_REED                     
+     1 0003 County_Treasurer                    W/I_SHIRLEY_STEIRS                 
+
+   620 0003 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+   169 0003 Governor_and_Lieutenant_Governor    James_Smith                        
+     9 0003 Governor_and_Lieutenant_Governor    UNDERVOTE                                798 UNDERVOTEA
+
+   261 0003 HOU0012_State_House_of_Representatives Anne_Parks                         
+   522 0003 HOU0012_State_House_of_Representatives UNDERVOTE                                798 UNDERVOTEA
+     1 0003 HOU0012_State_House_of_Representatives W/I_ALAN_GOLDEN                    
+     1 0003 HOU0012_State_House_of_Representatives W/I_ANYONE                         
+     1 0003 HOU0012_State_House_of_Representatives W/I_CHARLIE_WILLIAMS               
+     1 0003 HOU0012_State_House_of_Representatives W/I_DONNA                          
+     1 0003 HOU0012_State_House_of_Representatives W/I_JEFF_DANIELS                   
+     1 0003 HOU0012_State_House_of_Representatives W/I_JIMMY_SMITH                    
+     1 0003 HOU0012_State_House_of_Representatives W/I_JO_ANN_BURROUGHS               
+     2 0003 HOU0012_State_House_of_Representatives W/I_MICKEY_MOUSE                   
+     1 0003 HOU0012_State_House_of_Representatives W/I_MICKY_MOUSE                    
+     1 0003 HOU0012_State_House_of_Representatives W/I_REPUBLICAN                     
+     1 0003 HOU0012_State_House_of_Representatives W/I_ROGER_LUCAS                    
+     1 0003 HOU0012_State_House_of_Representatives W/I_TERRY_BONDS                    
+     1 0003 HOU0012_State_House_of_Representatives W/I_TRACY_WALKER                   
+     1 0003 HOU0012_State_House_of_Representatives W/I_WILLIAM_TYPHAIR_JR             
+
+   352 0003 Probate_Judge                       Kathryne_Kitty_Butler              
+   443 0003 Probate_Judge                       UNDERVOTE                                798 UNDERVOTEA
+     1 0003 Probate_Judge                       W/I_ANYONE                         
+     1 0003 Probate_Judge                       W/I_JEFF_JOHNSON                   
+     1 0003 Probate_Judge                       W/I_REPUBLICAN                     
+
+     2 0003 STRAIGHT_PARTY                      American                           
+    86 0003 STRAIGHT_PARTY                      Democratic                         
+   406 0003 STRAIGHT_PARTY                      Republican                         
+   301 0003 STRAIGHT_PARTY                      UNDERVOTE                                798 UNDERVOTEA
+     1 0003 STRAIGHT_PARTY                      United_Citizens                    
+     2 0003 STRAIGHT_PARTY                      Working_Families                   
+
+   125 0003 School_Board_At_Large               Al_Bell                            
+    45 0003 School_Board_At_Large               Ansel_Fambrough                    
+    93 0003 School_Board_At_Large               Frank_Kenny_Puckett                
+   537 0003 School_Board_At_Large               Janie_J_Martin                     
+   541 0003 School_Board_At_Large               Melody_Wilt                        
+    73 0003 School_Board_At_Large               R_C_Holloway                       
+  -726 0003 School_Board_At_Large               UNDERVOTE                                798 UNDERVOTEA
+   107 0003 School_Board_At_Large               Verteema_S_Chiles                  
+     1 0003 School_Board_At_Large               W/I_>ANGELA_PICKLE                 
+     1 0003 School_Board_At_Large               W/I_DONALD_TRUMP                   
+     1 0003 School_Board_At_Large               W/I_FRANK_PICKLE                   
+
+   623 0003 Secretary_of_State                  Mark_Hammond                       
+   155 0003 Secretary_of_State                  Melvin_T_Whittenburg               
+    20 0003 Secretary_of_State                  UNDERVOTE                                798 UNDERVOTEA
+
+   339 0003 Soil_and_Water_District_Commissioner Edward_Deason                      
+   277 0003 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+   179 0003 Soil_and_Water_District_Commissioner UNDERVOTE                                798 UNDERVOTEA
+     1 0003 Soil_and_Water_District_Commissioner W/I_ANDY_WARRNER                   
+     1 0003 Soil_and_Water_District_Commissioner W/I_JOE_CLARK                      
+     1 0003 Soil_and_Water_District_Commissioner W/I_JOHN_KENNEDY                   
+
+   145 0003 State_Superintendent_of_Education   Israel_Romero                      
+   632 0003 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+    21 0003 State_Superintendent_of_Education   UNDERVOTE                                798 UNDERVOTEA
+
+   608 0003 State_Treasurer                     Curtis_Loftis                      
+     7 0003 State_Treasurer                     Rosalyn_Glenn                      
+   156 0003 State_Treasurer                     Rosalyn_L_Glenn                    
+     4 0003 State_Treasurer                     Sarah_Work                         
+    23 0003 State_Treasurer                     UNDERVOTE                                798 UNDERVOTEA
+
+
+    40 0004 AMENDMENT_1                         No                                 
+     4 0004 AMENDMENT_1                         UNDERVOTE                                 87 UNDERVOTEA
+    43 0004 AMENDMENT_1                         Yes                                
+
+    42 0004 Attorney_General                    Alan_Wilson                        
+    44 0004 Attorney_General                    Constance_Anastopoulo              
+     1 0004 Attorney_General                    UNDERVOTE                                 87 UNDERVOTEA
+
+    45 0004 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+    42 0004 CON0003_U.S._House_of_Representatives Mary_Geren                         
+     0 0004 CON0003_U.S._House_of_Representatives UNDERVOTE                                 87 UNDERVOTEA
+
+    39 0004 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+     7 0004 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                 87 UNDERVOTEA
+    41 0004 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+    39 0004 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+     6 0004 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                 87 UNDERVOTEA
+    42 0004 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+     2 0004 Commissioner_of_Agriculture         Chris_Nelums                       
+     5 0004 Commissioner_of_Agriculture         David_Edmond                       
+    48 0004 Commissioner_of_Agriculture         Hugh_Weathers                      
+    32 0004 Commissioner_of_Agriculture         UNDERVOTE                                 87 UNDERVOTEA
+
+    48 0004 Comptroller_General                 Richard_Eckstrom                   
+    39 0004 Comptroller_General                 UNDERVOTE                                 87 UNDERVOTEA
+
+    27 0004 County_Auditor                      UNDERVOTE                                 87 UNDERVOTEA
+    59 0004 County_Auditor                      Virginia_Cooter_Edmunds            
+     1 0004 County_Auditor                      W/I_MIKE_FLOYD                     
+
+    60 0004 County_Treasurer                    Mary_Gable_Shirley                 
+    26 0004 County_Treasurer                    UNDERVOTE                                 87 UNDERVOTEA
+     1 0004 County_Treasurer                    W/I_CHARLES_LINK                   
+
+    42 0004 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+    44 0004 Governor_and_Lieutenant_Governor    James_Smith                        
+     1 0004 Governor_and_Lieutenant_Governor    UNDERVOTE                                 87 UNDERVOTEA
+
+    55 0004 HOU0012_State_House_of_Representatives Anne_Parks                         
+    30 0004 HOU0012_State_House_of_Representatives UNDERVOTE                                 87 UNDERVOTEA
+     1 0004 HOU0012_State_House_of_Representatives W/I_ANYBODY_OTHER_THAN_HER         
+     1 0004 HOU0012_State_House_of_Representatives W/I_REBA_DORN                      
+
+    59 0004 Probate_Judge                       Kathryne_Kitty_Butler              
+    28 0004 Probate_Judge                       UNDERVOTE                                 87 UNDERVOTEA
+
+     1 0004 STRAIGHT_PARTY                      American                           
+    35 0004 STRAIGHT_PARTY                      Democratic                         
+     1 0004 STRAIGHT_PARTY                      Green                              
+    32 0004 STRAIGHT_PARTY                      Republican                         
+    18 0004 STRAIGHT_PARTY                      UNDERVOTE                                 87 UNDERVOTEA
+
+    17 0004 School_Board_At_Large               Al_Bell                            
+    14 0004 School_Board_At_Large               Ansel_Fambrough                    
+    18 0004 School_Board_At_Large               Frank_Kenny_Puckett                
+    30 0004 School_Board_At_Large               Janie_J_Martin                     
+    29 0004 School_Board_At_Large               Melody_Wilt                        
+    21 0004 School_Board_At_Large               R_C_Holloway                       
+   -82 0004 School_Board_At_Large               UNDERVOTE                                 87 UNDERVOTEA
+    40 0004 School_Board_At_Large               Verteema_S_Chiles                  
+
+    43 0004 Secretary_of_State                  Mark_Hammond                       
+    43 0004 Secretary_of_State                  Melvin_T_Whittenburg               
+     1 0004 Secretary_of_State                  UNDERVOTE                                 87 UNDERVOTEA
+
+    43 0004 Soil_and_Water_District_Commissioner Edward_Deason                      
+    31 0004 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+    13 0004 Soil_and_Water_District_Commissioner UNDERVOTE                                 87 UNDERVOTEA
+
+    40 0004 State_Superintendent_of_Education   Israel_Romero                      
+    47 0004 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+     0 0004 State_Superintendent_of_Education   UNDERVOTE                                 87 UNDERVOTEA
+
+    44 0004 State_Treasurer                     Curtis_Loftis                      
+    42 0004 State_Treasurer                     Rosalyn_L_Glenn                    
+     1 0004 State_Treasurer                     UNDERVOTE                                 87 UNDERVOTEA
+
+
+     1 0006 (NO_VOTES_CAST)                     (NO_VOTES_CAST)                    
+   417 0006 (NO_VOTES_CAST)                     UNDERVOTE                                418 UNDERVOTEA
+
+   205 0006 AMENDMENT_1                         No                                 
+    21 0006 AMENDMENT_1                         UNDERVOTE                                418 UNDERVOTEA
+   192 0006 AMENDMENT_1                         Yes                                
+
+   146 0006 Attorney_General                    Alan_Wilson                        
+   267 0006 Attorney_General                    Constance_Anastopoulo              
+     5 0006 Attorney_General                    UNDERVOTE                                418 UNDERVOTEA
+
+     1 0006 CON0003_U.S._House_of_Representatives Dave_Moore                         
+   145 0006 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+   265 0006 CON0003_U.S._House_of_Representatives Mary_Geren                         
+     7 0006 CON0003_U.S._House_of_Representatives UNDERVOTE                                418 UNDERVOTEA
+
+   154 0006 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+    15 0006 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                418 UNDERVOTEA
+   249 0006 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+   149 0006 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+    17 0006 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                418 UNDERVOTEA
+   252 0006 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+   128 0006 CYCL005_County_Council_District_5   Earl_R_Coleman                     
+   289 0006 CYCL005_County_Council_District_5   UNDERVOTE                                418 UNDERVOTEA
+     1 0006 CYCL005_County_Council_District_5   W/I_KEVIN_JONES                    
+
+    68 0006 Commissioner_of_Agriculture         Chris_Nelums                       
+    47 0006 Commissioner_of_Agriculture         David_Edmond                       
+   162 0006 Commissioner_of_Agriculture         Hugh_Weathers                      
+   140 0006 Commissioner_of_Agriculture         UNDERVOTE                                418 UNDERVOTEA
+     1 0006 Commissioner_of_Agriculture         W/I_ME                             
+
+   224 0006 Comptroller_General                 Richard_Eckstrom                   
+   190 0006 Comptroller_General                 UNDERVOTE                                418 UNDERVOTEA
+     1 0006 Comptroller_General                 W/I_KENT_KELLY                     
+     1 0006 Comptroller_General                 W/I_ME                             
+     1 0006 Comptroller_General                 W/I_NA                             
+     1 0006 Comptroller_General                 W/I_PAUL_PAUL                      
+
+    50 0006 County_Auditor                      UNDERVOTE                                418 UNDERVOTEA
+   366 0006 County_Auditor                      Virginia_Cooter_Edmunds            
+     1 0006 County_Auditor                      W/I_MAGA                           
+     1 0006 County_Auditor                      W/I_MICKEY_MOUSE                   
+
+   367 0006 County_Treasurer                    Mary_Gable_Shirley                 
+    49 0006 County_Treasurer                    UNDERVOTE                                418 UNDERVOTEA
+     1 0006 County_Treasurer                    W/I_MAGA                           
+     1 0006 County_Treasurer                    W/I_MICKEY_MOUSE                   
+
+   149 0006 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+   264 0006 Governor_and_Lieutenant_Governor    James_Smith                        
+     5 0006 Governor_and_Lieutenant_Governor    UNDERVOTE                                418 UNDERVOTEA
+
+   319 0006 HOU0012_State_House_of_Representatives Anne_Parks                         
+    86 0006 HOU0012_State_House_of_Representatives UNDERVOTE                                418 UNDERVOTEA
+     1 0006 HOU0012_State_House_of_Representatives W/I_GEORGIE_JONES                  
+     1 0006 HOU0012_State_House_of_Representatives W/I_JENNINGS_MCABEE                
+     1 0006 HOU0012_State_House_of_Representatives W/I_JIM_CLARK                      
+     1 0006 HOU0012_State_House_of_Representatives W/I_KENT_KELLY                     
+     1 0006 HOU0012_State_House_of_Representatives W/I_MAGA                           
+     3 0006 HOU0012_State_House_of_Representatives W/I_MAKE_AMERICA_GREAT_AGAIN       
+     1 0006 HOU0012_State_House_of_Representatives W/I_MICKEY_MOUSE                   
+     1 0006 HOU0012_State_House_of_Representatives W/I_NOBODY                         
+     1 0006 HOU0012_State_House_of_Representatives W/I_RIC_FLAIR                      
+     1 0006 HOU0012_State_House_of_Representatives W/I_SHANE_MASSEY                   
+     1 0006 HOU0012_State_House_of_Representatives W/I_STEVE_MARTIN                   
+
+   371 0006 Probate_Judge                       Kathryne_Kitty_Butler              
+    44 0006 Probate_Judge                       UNDERVOTE                                418 UNDERVOTEA
+     1 0006 Probate_Judge                       W/I_MAGA                           
+     1 0006 Probate_Judge                       W/I_MICKEY_MOUSE                   
+     1 0006 Probate_Judge                       W/I_TAG_BUSSEY                     
+
+     2 0006 STRAIGHT_PARTY                      American                           
+   211 0006 STRAIGHT_PARTY                      Democratic                         
+     2 0006 STRAIGHT_PARTY                      Green                              
+    76 0006 STRAIGHT_PARTY                      Republican                         
+   122 0006 STRAIGHT_PARTY                      UNDERVOTE                                418 UNDERVOTEA
+     4 0006 STRAIGHT_PARTY                      United_Citizens                    
+     1 0006 STRAIGHT_PARTY                      Working_Families                   
+
+   175 0006 School_Board_At_Large               Al_Bell                            
+    93 0006 School_Board_At_Large               Ansel_Fambrough                    
+   140 0006 School_Board_At_Large               Frank_Kenny_Puckett                
+   126 0006 School_Board_At_Large               Janie_J_Martin                     
+   129 0006 School_Board_At_Large               Melody_Wilt                        
+   146 0006 School_Board_At_Large               R_C_Holloway                       
+  -561 0006 School_Board_At_Large               UNDERVOTE                                418 UNDERVOTEA
+   169 0006 School_Board_At_Large               Verteema_S_Chiles                  
+     1 0006 School_Board_At_Large               W/I_TOYE_WILLIS                    
+
+   152 0006 Secretary_of_State                  Mark_Hammond                       
+   261 0006 Secretary_of_State                  Melvin_T_Whittenburg               
+     5 0006 Secretary_of_State                  UNDERVOTE                                418 UNDERVOTEA
+
+   243 0006 Soil_and_Water_District_Commissioner Edward_Deason                      
+   185 0006 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+   -12 0006 Soil_and_Water_District_Commissioner UNDERVOTE                                418 UNDERVOTEA
+     1 0006 Soil_and_Water_District_Commissioner W/I_>HER                           
+     1 0006 Soil_and_Water_District_Commissioner W/I_ME                             
+
+   261 0006 State_Superintendent_of_Education   Israel_Romero                      
+   153 0006 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+     4 0006 State_Superintendent_of_Education   UNDERVOTE                                418 UNDERVOTEA
+
+   145 0006 State_Treasurer                     Curtis_Loftis                      
+     6 0006 State_Treasurer                     Rosalyn_Glenn                      
+   261 0006 State_Treasurer                     Rosalyn_L_Glenn                    
+     2 0006 State_Treasurer                     Sarah_Work                         
+     4 0006 State_Treasurer                     UNDERVOTE                                418 UNDERVOTEA
+
+
+     2 0008 (NO_VOTES_CAST)                     (NO_VOTES_CAST)                    
+   189 0008 (NO_VOTES_CAST)                     UNDERVOTE                                191 UNDERVOTEA
+
+    91 0008 AMENDMENT_1                         No                                 
+    20 0008 AMENDMENT_1                         UNDERVOTE                                191 UNDERVOTEA
+    80 0008 AMENDMENT_1                         Yes                                
+
+    43 0008 Attorney_General                    Alan_Wilson                        
+   144 0008 Attorney_General                    Constance_Anastopoulo              
+     4 0008 Attorney_General                    UNDERVOTE                                191 UNDERVOTEA
+
+     1 0008 CON0003_U.S._House_of_Representatives Dave_Moore                         
+    44 0008 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+   143 0008 CON0003_U.S._House_of_Representatives Mary_Geren                         
+     3 0008 CON0003_U.S._House_of_Representatives UNDERVOTE                                191 UNDERVOTEA
+
+    87 0008 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+    15 0008 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                191 UNDERVOTEA
+    89 0008 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+    88 0008 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+    19 0008 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                191 UNDERVOTEA
+    84 0008 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+   164 0008 CYCL005_County_Council_District_5   Earl_R_Coleman                     
+    25 0008 CYCL005_County_Council_District_5   UNDERVOTE                                191 UNDERVOTEA
+     1 0008 CYCL005_County_Council_District_5   W/I_D_DUCK                         
+     1 0008 CYCL005_County_Council_District_5   W/I_JOE                            
+
+    36 0008 Commissioner_of_Agriculture         Chris_Nelums                       
+    22 0008 Commissioner_of_Agriculture         David_Edmond                       
+    44 0008 Commissioner_of_Agriculture         Hugh_Weathers                      
+    88 0008 Commissioner_of_Agriculture         UNDERVOTE                                191 UNDERVOTEA
+     1 0008 Commissioner_of_Agriculture         W/I_JAMILA_DAVIS                   
+
+    63 0008 Comptroller_General                 Richard_Eckstrom                   
+   128 0008 Comptroller_General                 UNDERVOTE                                191 UNDERVOTEA
+
+    19 0008 County_Auditor                      UNDERVOTE                                191 UNDERVOTEA
+   172 0008 County_Auditor                      Virginia_Cooter_Edmunds            
+
+   173 0008 County_Treasurer                    Mary_Gable_Shirley                 
+    18 0008 County_Treasurer                    UNDERVOTE                                191 UNDERVOTEA
+
+    46 0008 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+   143 0008 Governor_and_Lieutenant_Governor    James_Smith                        
+     2 0008 Governor_and_Lieutenant_Governor    UNDERVOTE                                191 UNDERVOTEA
+
+   153 0008 HOU0012_State_House_of_Representatives Anne_Parks                         
+    36 0008 HOU0012_State_House_of_Representatives UNDERVOTE                                191 UNDERVOTEA
+     1 0008 HOU0012_State_House_of_Representatives W/I_ANYONE_ELSE                    
+     1 0008 HOU0012_State_House_of_Representatives W/I_DONALD_TRUMP                   
+
+   171 0008 Probate_Judge                       Kathryne_Kitty_Butler              
+    20 0008 Probate_Judge                       UNDERVOTE                                191 UNDERVOTEA
+
+   127 0008 STRAIGHT_PARTY                      Democratic                         
+    33 0008 STRAIGHT_PARTY                      Republican                         
+    30 0008 STRAIGHT_PARTY                      UNDERVOTE                                191 UNDERVOTEA
+     1 0008 STRAIGHT_PARTY                      Working_Families                   
+
+    85 0008 School_Board_At_Large               Al_Bell                            
+    30 0008 School_Board_At_Large               Ansel_Fambrough                    
+    69 0008 School_Board_At_Large               Frank_Kenny_Puckett                
+    48 0008 School_Board_At_Large               Janie_J_Martin                     
+    42 0008 School_Board_At_Large               Melody_Wilt                        
+    80 0008 School_Board_At_Large               R_C_Holloway                       
+  -253 0008 School_Board_At_Large               UNDERVOTE                                191 UNDERVOTEA
+    90 0008 School_Board_At_Large               Verteema_S_Chiles                  
+
+    47 0008 Secretary_of_State                  Mark_Hammond                       
+   142 0008 Secretary_of_State                  Melvin_T_Whittenburg               
+     2 0008 Secretary_of_State                  UNDERVOTE                                191 UNDERVOTEA
+
+   100 0008 Soil_and_Water_District_Commissioner Edward_Deason                      
+    84 0008 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+     6 0008 Soil_and_Water_District_Commissioner UNDERVOTE                                191 UNDERVOTEA
+     1 0008 Soil_and_Water_District_Commissioner W/I_JAMILA_DAVIS                   
+
+   141 0008 State_Superintendent_of_Education   Israel_Romero                      
+    47 0008 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+     3 0008 State_Superintendent_of_Education   UNDERVOTE                                191 UNDERVOTEA
+
+    47 0008 State_Treasurer                     Curtis_Loftis                      
+     2 0008 State_Treasurer                     Rosalyn_Glenn                      
+   140 0008 State_Treasurer                     Rosalyn_L_Glenn                    
+     2 0008 State_Treasurer                     UNDERVOTE                                191 UNDERVOTEA
+
+
+     2 0009 (NO_VOTES_CAST)                     (NO_VOTES_CAST)                    
+   328 0009 (NO_VOTES_CAST)                     UNDERVOTE                                330 UNDERVOTEA
+
+   161 0009 AMENDMENT_1                         No                                 
+    22 0009 AMENDMENT_1                         UNDERVOTE                                330 UNDERVOTEA
+   147 0009 AMENDMENT_1                         Yes                                
+
+    96 0009 Attorney_General                    Alan_Wilson                        
+   228 0009 Attorney_General                    Constance_Anastopoulo              
+     6 0009 Attorney_General                    UNDERVOTE                                330 UNDERVOTEA
+
+     2 0009 CON0003_U.S._House_of_Representatives Dave_Moore                         
+    96 0009 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+   223 0009 CON0003_U.S._House_of_Representatives Mary_Geren                         
+     9 0009 CON0003_U.S._House_of_Representatives UNDERVOTE                                330 UNDERVOTEA
+
+   118 0009 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+    12 0009 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                330 UNDERVOTEA
+   200 0009 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+   115 0009 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+    14 0009 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                330 UNDERVOTEA
+   201 0009 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+    23 0009 CYCL002_County_Council_District_2   Bernie_Hamby                       
+   306 0009 CYCL002_County_Council_District_2   UNDERVOTE                                330 UNDERVOTEA
+     1 0009 CYCL002_County_Council_District_2   W/I_WAYMON_STOREY_JR               
+
+    38 0009 CYCL005_County_Council_District_5   Earl_R_Coleman                     
+   292 0009 CYCL005_County_Council_District_5   UNDERVOTE                                330 UNDERVOTEA
+
+    49 0009 Commissioner_of_Agriculture         Chris_Nelums                       
+    37 0009 Commissioner_of_Agriculture         David_Edmond                       
+   104 0009 Commissioner_of_Agriculture         Hugh_Weathers                      
+   139 0009 Commissioner_of_Agriculture         UNDERVOTE                                330 UNDERVOTEA
+     1 0009 Commissioner_of_Agriculture         W/I_DONALD_MOSS                    
+
+   146 0009 Comptroller_General                 Richard_Eckstrom                   
+   181 0009 Comptroller_General                 UNDERVOTE                                330 UNDERVOTEA
+     1 0009 Comptroller_General                 W/I_AARON_WATSON                   
+     1 0009 Comptroller_General                 W/I_BEN_SIBERT                     
+     1 0009 Comptroller_General                 W/I_ME                             
+
+    40 0009 County_Auditor                      UNDERVOTE                                330 UNDERVOTEA
+   290 0009 County_Auditor                      Virginia_Cooter_Edmunds            
+
+   292 0009 County_Treasurer                    Mary_Gable_Shirley                 
+    38 0009 County_Treasurer                    UNDERVOTE                                330 UNDERVOTEA
+
+    98 0009 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+   229 0009 Governor_and_Lieutenant_Governor    James_Smith                        
+     3 0009 Governor_and_Lieutenant_Governor    UNDERVOTE                                330 UNDERVOTEA
+
+   248 0009 HOU0012_State_House_of_Representatives Anne_Parks                         
+    77 0009 HOU0012_State_House_of_Representatives UNDERVOTE                                330 UNDERVOTEA
+     2 0009 HOU0012_State_House_of_Representatives W/I_ANYONE_ELSE                    
+     1 0009 HOU0012_State_House_of_Representatives W/I_GLENN_WRIGHT                   
+     1 0009 HOU0012_State_House_of_Representatives W/I_JIM_FOSTER                     
+     1 0009 HOU0012_State_House_of_Representatives W/I_MICKEY_MOUSE                   
+
+   298 0009 Probate_Judge                       Kathryne_Kitty_Butler              
+    32 0009 Probate_Judge                       UNDERVOTE                                330 UNDERVOTEA
+
+   190 0009 STRAIGHT_PARTY                      Democratic                         
+    51 0009 STRAIGHT_PARTY                      Republican                         
+    85 0009 STRAIGHT_PARTY                      UNDERVOTE                                330 UNDERVOTEA
+     1 0009 STRAIGHT_PARTY                      United_Citizens                    
+     3 0009 STRAIGHT_PARTY                      Working_Families                   
+
+   124 0009 School_Board_At_Large               Al_Bell                            
+    85 0009 School_Board_At_Large               Ansel_Fambrough                    
+   108 0009 School_Board_At_Large               Frank_Kenny_Puckett                
+    88 0009 School_Board_At_Large               Janie_J_Martin                     
+    97 0009 School_Board_At_Large               Melody_Wilt                        
+   120 0009 School_Board_At_Large               R_C_Holloway                       
+  -450 0009 School_Board_At_Large               UNDERVOTE                                330 UNDERVOTEA
+   158 0009 School_Board_At_Large               Verteema_S_Chiles                  
+
+    97 0009 Secretary_of_State                  Mark_Hammond                       
+   227 0009 Secretary_of_State                  Melvin_T_Whittenburg               
+     6 0009 Secretary_of_State                  UNDERVOTE                                330 UNDERVOTEA
+
+   169 0009 Soil_and_Water_District_Commissioner Edward_Deason                      
+   108 0009 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+    53 0009 Soil_and_Water_District_Commissioner UNDERVOTE                                330 UNDERVOTEA
+
+   221 0009 State_Superintendent_of_Education   Israel_Romero                      
+   102 0009 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+     7 0009 State_Superintendent_of_Education   UNDERVOTE                                330 UNDERVOTEA
+
+    92 0009 State_Treasurer                     Curtis_Loftis                      
+    11 0009 State_Treasurer                     Rosalyn_Glenn                      
+   220 0009 State_Treasurer                     Rosalyn_L_Glenn                    
+     3 0009 State_Treasurer                     Sarah_Work                         
+     4 0009 State_Treasurer                     UNDERVOTE                                330 UNDERVOTEA
+
+
+   164 0010 AMENDMENT_1                         No                                 
+    37 0010 AMENDMENT_1                         UNDERVOTE                                360 UNDERVOTEA
+   159 0010 AMENDMENT_1                         Yes                                
+
+   153 0010 Attorney_General                    Alan_Wilson                        
+   204 0010 Attorney_General                    Constance_Anastopoulo              
+     3 0010 Attorney_General                    UNDERVOTE                                360 UNDERVOTEA
+
+     2 0010 CON0003_U.S._House_of_Representatives Dave_Moore                         
+   155 0010 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+   198 0010 CON0003_U.S._House_of_Representatives Mary_Geren                         
+     5 0010 CON0003_U.S._House_of_Representatives UNDERVOTE                                360 UNDERVOTEA
+
+   107 0010 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+    18 0010 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                360 UNDERVOTEA
+   235 0010 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+   106 0010 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+    18 0010 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                360 UNDERVOTEA
+   236 0010 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+    49 0010 CYCL002_County_Council_District_2   Bernie_Hamby                       
+   310 0010 CYCL002_County_Council_District_2   UNDERVOTE                                360 UNDERVOTEA
+     1 0010 CYCL002_County_Council_District_2   W/I_DAYLE_HAMMOND                  
+
+    93 0010 CYCL005_County_Council_District_5   Earl_R_Coleman                     
+   267 0010 CYCL005_County_Council_District_5   UNDERVOTE                                360 UNDERVOTEA
+
+    38 0010 Commissioner_of_Agriculture         Chris_Nelums                       
+    28 0010 Commissioner_of_Agriculture         David_Edmond                       
+   158 0010 Commissioner_of_Agriculture         Hugh_Weathers                      
+   136 0010 Commissioner_of_Agriculture         UNDERVOTE                                360 UNDERVOTEA
+
+   186 0010 Comptroller_General                 Richard_Eckstrom                   
+   169 0010 Comptroller_General                 UNDERVOTE                                360 UNDERVOTEA
+     1 0010 Comptroller_General                 W/I_CRYSTAL_TUTT                   
+     1 0010 Comptroller_General                 W/I_JOESEPH_RILEY                  
+     1 0010 Comptroller_General                 W/I_LINDA_BLAIR                    
+     1 0010 Comptroller_General                 W/I_PETE_HASKIN                    
+     1 0010 Comptroller_General                 W/I_VICTOR_NEWMAN                  
+
+    78 0010 County_Auditor                      UNDERVOTE                                360 UNDERVOTEA
+   281 0010 County_Auditor                      Virginia_Cooter_Edmunds            
+     1 0010 County_Auditor                      W/I_REPUBLICAN                     
+
+   283 0010 County_Treasurer                    Mary_Gable_Shirley                 
+    76 0010 County_Treasurer                    UNDERVOTE                                360 UNDERVOTEA
+     1 0010 County_Treasurer                    W/I_REPUBLICAN                     
+
+   153 0010 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+   203 0010 Governor_and_Lieutenant_Governor    James_Smith                        
+     4 0010 Governor_and_Lieutenant_Governor    UNDERVOTE                                360 UNDERVOTEA
+
+   232 0010 HOU0012_State_House_of_Representatives Anne_Parks                         
+   119 0010 HOU0012_State_House_of_Representatives UNDERVOTE                                360 UNDERVOTEA
+     1 0010 HOU0012_State_House_of_Representatives W/I_BUGGS_BUNNY                    
+     1 0010 HOU0012_State_House_of_Representatives W/I_CHRISTOPHER_WADE_LONG          
+     1 0010 HOU0012_State_House_of_Representatives W/I_JUNNE_R_JONES                  
+     1 0010 HOU0012_State_House_of_Representatives W/I_LUKE_EDWARD_SEIGLER            
+     1 0010 HOU0012_State_House_of_Representatives W/I_REPUBLICAN                     
+     2 0010 HOU0012_State_House_of_Representatives W/I_SCOTT_SMART                    
+     1 0010 HOU0012_State_House_of_Representatives W/I_TOYE_LANGLEY                   
+     1 0010 HOU0012_State_House_of_Representatives W/I_WILLIAM_J._SMART,_JR.          
+
+   291 0010 Probate_Judge                       Kathryne_Kitty_Butler              
+    68 0010 Probate_Judge                       UNDERVOTE                                360 UNDERVOTEA
+     1 0010 Probate_Judge                       W/I_REPUBLICAN                     
+
+     2 0010 STRAIGHT_PARTY                      American                           
+   174 0010 STRAIGHT_PARTY                      Democratic                         
+     1 0010 STRAIGHT_PARTY                      Green                              
+    85 0010 STRAIGHT_PARTY                      Republican                         
+    96 0010 STRAIGHT_PARTY                      UNDERVOTE                                360 UNDERVOTEA
+     1 0010 STRAIGHT_PARTY                      United_Citizens                    
+     1 0010 STRAIGHT_PARTY                      Working_Families                   
+
+   129 0010 School_Board_At_Large               Al_Bell                            
+    67 0010 School_Board_At_Large               Ansel_Fambrough                    
+   105 0010 School_Board_At_Large               Frank_Kenny_Puckett                
+   112 0010 School_Board_At_Large               Janie_J_Martin                     
+   107 0010 School_Board_At_Large               Melody_Wilt                        
+   126 0010 School_Board_At_Large               R_C_Holloway                       
+  -433 0010 School_Board_At_Large               UNDERVOTE                                360 UNDERVOTEA
+   144 0010 School_Board_At_Large               Verteema_S_Chiles                  
+     1 0010 School_Board_At_Large               W/I_>TOYE_LANGLEY                  
+     1 0010 School_Board_At_Large               W/I_LUKE_SEIGLER                   
+     1 0010 School_Board_At_Large               W/I_TOYE_LANGLEY                   
+
+   155 0010 Secretary_of_State                  Mark_Hammond                       
+   202 0010 Secretary_of_State                  Melvin_T_Whittenburg               
+     3 0010 Secretary_of_State                  UNDERVOTE                                360 UNDERVOTEA
+
+   167 0010 Soil_and_Water_District_Commissioner Edward_Deason                      
+   115 0010 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+    73 0010 Soil_and_Water_District_Commissioner UNDERVOTE                                360 UNDERVOTEA
+     1 0010 Soil_and_Water_District_Commissioner W/I_>REPUBLICAN                    
+     1 0010 Soil_and_Water_District_Commissioner W/I_JOSEPH_CADE                    
+     1 0010 Soil_and_Water_District_Commissioner W/I_LUKE_EDWARD_SEIGLER            
+     1 0010 Soil_and_Water_District_Commissioner W/I_LUKE_SEIGLER                   
+     1 0010 Soil_and_Water_District_Commissioner W/I_REPUBLICAN                     
+
+   198 0010 State_Superintendent_of_Education   Israel_Romero                      
+   158 0010 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+     3 0010 State_Superintendent_of_Education   UNDERVOTE                                360 UNDERVOTEA
+     1 0010 State_Superintendent_of_Education   W/I_MICHELE_PHILLIPS               
+
+   153 0010 State_Treasurer                     Curtis_Loftis                      
+     3 0010 State_Treasurer                     Rosalyn_Glenn                      
+   199 0010 State_Treasurer                     Rosalyn_L_Glenn                    
+     2 0010 State_Treasurer                     Sarah_Work                         
+     3 0010 State_Treasurer                     UNDERVOTE                                360 UNDERVOTEA
+
+
+    48 0013 AMENDMENT_1                         No                                 
+     9 0013 AMENDMENT_1                         UNDERVOTE                                108 UNDERVOTEA
+    51 0013 AMENDMENT_1                         Yes                                
+
+    87 0013 Attorney_General                    Alan_Wilson                        
+    16 0013 Attorney_General                    Constance_Anastopoulo              
+     5 0013 Attorney_General                    UNDERVOTE                                108 UNDERVOTEA
+
+     2 0013 CON0003_U.S._House_of_Representatives Dave_Moore                         
+    86 0013 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+    16 0013 CON0003_U.S._House_of_Representatives Mary_Geren                         
+     4 0013 CON0003_U.S._House_of_Representatives UNDERVOTE                                108 UNDERVOTEA
+
+    37 0013 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+     4 0013 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                108 UNDERVOTEA
+    67 0013 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+    31 0013 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+     3 0013 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                108 UNDERVOTEA
+    74 0013 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+    65 0013 CYCL002_County_Council_District_2   Bernie_Hamby                       
+    41 0013 CYCL002_County_Council_District_2   UNDERVOTE                                108 UNDERVOTEA
+     1 0013 CYCL002_County_Council_District_2   W/I_GEORGE_SELFRIDGE               
+     1 0013 CYCL002_County_Council_District_2   W/I_MICKEY_MOUSE                   
+
+    12 0013 CYCL005_County_Council_District_5   Earl_R_Coleman                     
+    95 0013 CYCL005_County_Council_District_5   UNDERVOTE                                108 UNDERVOTEA
+     1 0013 CYCL005_County_Council_District_5   W/I_CHARLES_KEY                    
+
+     1 0013 Commissioner_of_Agriculture         Chris_Nelums                       
+     9 0013 Commissioner_of_Agriculture         David_Edmond                       
+    88 0013 Commissioner_of_Agriculture         Hugh_Weathers                      
+    10 0013 Commissioner_of_Agriculture         UNDERVOTE                                108 UNDERVOTEA
+
+    93 0013 Comptroller_General                 Richard_Eckstrom                   
+    15 0013 Comptroller_General                 UNDERVOTE                                108 UNDERVOTEA
+
+    50 0013 County_Auditor                      UNDERVOTE                                108 UNDERVOTEA
+    58 0013 County_Auditor                      Virginia_Cooter_Edmunds            
+
+    57 0013 County_Treasurer                    Mary_Gable_Shirley                 
+    50 0013 County_Treasurer                    UNDERVOTE                                108 UNDERVOTEA
+     1 0013 County_Treasurer                    W/I_CRYSTAL_DUCKETT                
+
+    91 0013 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+    16 0013 Governor_and_Lieutenant_Governor    James_Smith                        
+     1 0013 Governor_and_Lieutenant_Governor    UNDERVOTE                                108 UNDERVOTEA
+
+    30 0013 HOU0012_State_House_of_Representatives Anne_Parks                         
+    73 0013 HOU0012_State_House_of_Representatives UNDERVOTE                                108 UNDERVOTEA
+     1 0013 HOU0012_State_House_of_Representatives W/I_ANYBODY_ELSE                   
+     1 0013 HOU0012_State_House_of_Representatives W/I_CHRIS_DOOLITTLE                
+     1 0013 HOU0012_State_House_of_Representatives W/I_MARIAN_STURKEY                 
+     1 0013 HOU0012_State_House_of_Representatives W/I_PETE_PALEK                     
+     1 0013 HOU0012_State_House_of_Representatives W/I_WAYNE_KIRKLAND                 
+
+    57 0013 Probate_Judge                       Kathryne_Kitty_Butler              
+    51 0013 Probate_Judge                       UNDERVOTE                                108 UNDERVOTEA
+
+    10 0013 STRAIGHT_PARTY                      Democratic                         
+     1 0013 STRAIGHT_PARTY                      Green                              
+    58 0013 STRAIGHT_PARTY                      Republican                         
+    39 0013 STRAIGHT_PARTY                      UNDERVOTE                                108 UNDERVOTEA
+
+    14 0013 School_Board_At_Large               Al_Bell                            
+    13 0013 School_Board_At_Large               Ansel_Fambrough                    
+    20 0013 School_Board_At_Large               Frank_Kenny_Puckett                
+    38 0013 School_Board_At_Large               Janie_J_Martin                     
+    54 0013 School_Board_At_Large               Melody_Wilt                        
+    15 0013 School_Board_At_Large               R_C_Holloway                       
+   -60 0013 School_Board_At_Large               UNDERVOTE                                108 UNDERVOTEA
+    14 0013 School_Board_At_Large               Verteema_S_Chiles                  
+
+    90 0013 Secretary_of_State                  Mark_Hammond                       
+    16 0013 Secretary_of_State                  Melvin_T_Whittenburg               
+     2 0013 Secretary_of_State                  UNDERVOTE                                108 UNDERVOTEA
+
+    50 0013 Soil_and_Water_District_Commissioner Edward_Deason                      
+    22 0013 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+    35 0013 Soil_and_Water_District_Commissioner UNDERVOTE                                108 UNDERVOTEA
+     1 0013 Soil_and_Water_District_Commissioner W/I_LINDA_FLOYD                    
+
+    13 0013 State_Superintendent_of_Education   Israel_Romero                      
+    91 0013 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+     4 0013 State_Superintendent_of_Education   UNDERVOTE                                108 UNDERVOTEA
+
+    87 0013 State_Treasurer                     Curtis_Loftis                      
+     1 0013 State_Treasurer                     Rosalyn_Glenn                      
+    15 0013 State_Treasurer                     Rosalyn_L_Glenn                    
+     1 0013 State_Treasurer                     Sarah_Work                         
+     4 0013 State_Treasurer                     UNDERVOTE                                108 UNDERVOTEA
+
+
+    70 0014 AMENDMENT_1                         No                                 
+    11 0014 AMENDMENT_1                         UNDERVOTE                                170 UNDERVOTEA
+    89 0014 AMENDMENT_1                         Yes                                
+
+   154 0014 Attorney_General                    Alan_Wilson                        
+    13 0014 Attorney_General                    Constance_Anastopoulo              
+     3 0014 Attorney_General                    UNDERVOTE                                170 UNDERVOTEA
+
+     4 0014 CON0003_U.S._House_of_Representatives Dave_Moore                         
+   152 0014 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+    12 0014 CON0003_U.S._House_of_Representatives Mary_Geren                         
+     2 0014 CON0003_U.S._House_of_Representatives UNDERVOTE                                170 UNDERVOTEA
+
+    49 0014 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+     6 0014 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                170 UNDERVOTEA
+   115 0014 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+    44 0014 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+     6 0014 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                170 UNDERVOTEA
+   120 0014 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+   134 0014 CYCL002_County_Council_District_2   Bernie_Hamby                       
+    21 0014 CYCL002_County_Council_District_2   UNDERVOTE                                170 UNDERVOTEA
+     1 0014 CYCL002_County_Council_District_2   W/I_CHARLES_STEPHENS               
+     1 0014 CYCL002_County_Council_District_2   W/I_CHRIS_MOORE                    
+     1 0014 CYCL002_County_Council_District_2   W/I_DALE_HAMMOND                   
+     1 0014 CYCL002_County_Council_District_2   W/I_DAYLE_HAMMOBD                  
+     1 0014 CYCL002_County_Council_District_2   W/I_DAYLE_HAMMOND                  
+     2 0014 CYCL002_County_Council_District_2   W/I_DUANE_HAMMOND                  
+     1 0014 CYCL002_County_Council_District_2   W/I_HAMMOND                        
+     1 0014 CYCL002_County_Council_District_2   W/I_LAVERN_KIRVY                   
+     1 0014 CYCL002_County_Council_District_2   W/I_MICKEY_MOUSE                   
+     1 0014 CYCL002_County_Council_District_2   W/I_MICKY-MOUSE                    
+     1 0014 CYCL002_County_Council_District_2   W/I_NO_HAMBY                       
+     1 0014 CYCL002_County_Council_District_2   W/I_ROB                            
+     1 0014 CYCL002_County_Council_District_2   W/I_TODD_WEAVER                    
+     1 0014 CYCL002_County_Council_District_2   W/I_VERN_KIRBY                     
+
+     1 0014 Commissioner_of_Agriculture         Chris_Nelums                       
+     9 0014 Commissioner_of_Agriculture         David_Edmond                       
+   154 0014 Commissioner_of_Agriculture         Hugh_Weathers                      
+     6 0014 Commissioner_of_Agriculture         UNDERVOTE                                170 UNDERVOTEA
+
+   158 0014 Comptroller_General                 Richard_Eckstrom                   
+    12 0014 Comptroller_General                 UNDERVOTE                                170 UNDERVOTEA
+
+   105 0014 County_Auditor                      UNDERVOTE                                170 UNDERVOTEA
+    59 0014 County_Auditor                      Virginia_Cooter_Edmunds            
+     1 0014 County_Auditor                      W/I_-                              
+     1 0014 County_Auditor                      W/I_CHRIS_MOORE                    
+     1 0014 County_Auditor                      W/I_KATRINA                        
+     1 0014 County_Auditor                      W/I_MEE                            
+     1 0014 County_Auditor                      W/I_NOBE                           
+     1 0014 County_Auditor                      W/I_TIFFANY_PAYBE                  
+
+    61 0014 County_Treasurer                    Mary_Gable_Shirley                 
+   104 0014 County_Treasurer                    UNDERVOTE                                170 UNDERVOTEA
+     1 0014 County_Treasurer                    W/I_-                              
+     1 0014 County_Treasurer                    W/I_BONE                           
+     1 0014 County_Treasurer                    W/I_CHRIS_MOORE                    
+     1 0014 County_Treasurer                    W/I_ME                             
+     1 0014 County_Treasurer                    W/I_TIFFABY_PAYBE                  
+
+   152 0014 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+    16 0014 Governor_and_Lieutenant_Governor    James_Smith                        
+     2 0014 Governor_and_Lieutenant_Governor    UNDERVOTE                                170 UNDERVOTEA
+
+    44 0014 HOU0012_State_House_of_Representatives Anne_Parks                         
+   116 0014 HOU0012_State_House_of_Representatives UNDERVOTE                                170 UNDERVOTEA
+     1 0014 HOU0012_State_House_of_Representatives W/I_-                              
+     1 0014 HOU0012_State_House_of_Representatives W/I_CHARLES_STEPHENS               
+     1 0014 HOU0012_State_House_of_Representatives W/I_CHRIS_MOORE                    
+     1 0014 HOU0012_State_House_of_Representatives W/I_GENE_HUTTO                     
+     1 0014 HOU0012_State_House_of_Representatives W/I_KENNETH_VOLLMER                
+     2 0014 HOU0012_State_House_of_Representatives W/I_MURRAY_PENNER                  
+     1 0014 HOU0012_State_House_of_Representatives W/I_NICOLE_LOVE                    
+     1 0014 HOU0012_State_House_of_Representatives W/I_NONE                           
+     1 0014 HOU0012_State_House_of_Representatives W/I_TIFFANY_PAYNE                  
+
+    62 0014 Probate_Judge                       Kathryne_Kitty_Butler              
+   102 0014 Probate_Judge                       UNDERVOTE                                170 UNDERVOTEA
+     1 0014 Probate_Judge                       W/I_-                              
+     1 0014 Probate_Judge                       W/I_CHRIS_MOORE                    
+     1 0014 Probate_Judge                       W/I_NICK_POSTON                    
+     1 0014 Probate_Judge                       W/I_NONE                           
+     1 0014 Probate_Judge                       W/I_TIFFANY_PAYME                  
+     1 0014 Probate_Judge                       W/I_TRACY_PENNER                   
+
+     2 0014 STRAIGHT_PARTY                      American                           
+     3 0014 STRAIGHT_PARTY                      Democratic                         
+    94 0014 STRAIGHT_PARTY                      Republican                         
+    71 0014 STRAIGHT_PARTY                      UNDERVOTE                                170 UNDERVOTEA
+
+    25 0014 School_Board_At_Large               Al_Bell                            
+    21 0014 School_Board_At_Large               Ansel_Fambrough                    
+    33 0014 School_Board_At_Large               Frank_Kenny_Puckett                
+    57 0014 School_Board_At_Large               Janie_J_Martin                     
+    60 0014 School_Board_At_Large               Melody_Wilt                        
+    25 0014 School_Board_At_Large               R_C_Holloway                       
+   -63 0014 School_Board_At_Large               UNDERVOTE                                170 UNDERVOTEA
+    11 0014 School_Board_At_Large               Verteema_S_Chiles                  
+     1 0014 School_Board_At_Large               W/I_CHARLES_PAYBE                  
+
+   158 0014 Secretary_of_State                  Mark_Hammond                       
+    10 0014 Secretary_of_State                  Melvin_T_Whittenburg               
+     2 0014 Secretary_of_State                  UNDERVOTE                                170 UNDERVOTEA
+
+    67 0014 Soil_and_Water_District_Commissioner Edward_Deason                      
+    38 0014 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+    63 0014 Soil_and_Water_District_Commissioner UNDERVOTE                                170 UNDERVOTEA
+     1 0014 Soil_and_Water_District_Commissioner W/I_CHRIS_MOORE                    
+     1 0014 Soil_and_Water_District_Commissioner W/I_TIFFABY_PAYBE                  
+
+     9 0014 State_Superintendent_of_Education   Israel_Romero                      
+   158 0014 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+     3 0014 State_Superintendent_of_Education   UNDERVOTE                                170 UNDERVOTEA
+
+   152 0014 State_Treasurer                     Curtis_Loftis                      
+    12 0014 State_Treasurer                     Rosalyn_L_Glenn                    
+     4 0014 State_Treasurer                     Sarah_Work                         
+     2 0014 State_Treasurer                     UNDERVOTE                                170 UNDERVOTEA
+
+    45 0014 TAX0001_MODOC_FIRE_PROTECTION_DISTRICT No,_Opposed_to_the_question        
+     6 0014 TAX0001_MODOC_FIRE_PROTECTION_DISTRICT UNDERVOTE                                170 UNDERVOTEA
+   119 0014 TAX0001_MODOC_FIRE_PROTECTION_DISTRICT Yes,_In_favor_of_the_question      
+
+
+   111 0015 AMENDMENT_1                         No                                 
+    19 0015 AMENDMENT_1                         UNDERVOTE                                260 UNDERVOTEA
+   130 0015 AMENDMENT_1                         Yes                                
+
+   129 0015 Attorney_General                    Alan_Wilson                        
+   129 0015 Attorney_General                    Constance_Anastopoulo              
+     2 0015 Attorney_General                    UNDERVOTE                                260 UNDERVOTEA
+
+     8 0015 CON0003_U.S._House_of_Representatives Dave_Moore                         
+   129 0015 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+   121 0015 CON0003_U.S._House_of_Representatives Mary_Geren                         
+     2 0015 CON0003_U.S._House_of_Representatives UNDERVOTE                                260 UNDERVOTEA
+
+    79 0015 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+    18 0015 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                260 UNDERVOTEA
+   163 0015 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+    77 0015 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+    16 0015 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                260 UNDERVOTEA
+   167 0015 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+   156 0015 CYCL002_County_Council_District_2   Bernie_Hamby                       
+    98 0015 CYCL002_County_Council_District_2   UNDERVOTE                                260 UNDERVOTEA
+     1 0015 CYCL002_County_Council_District_2   W/I_BUGS_BUNNY                     
+     1 0015 CYCL002_County_Council_District_2   W/I_CURTIS_SIBERT                  
+     1 0015 CYCL002_County_Council_District_2   W/I_DONALD_DUCK                    
+     1 0015 CYCL002_County_Council_District_2   W/I_PETER_WOOD                     
+     1 0015 CYCL002_County_Council_District_2   W/I_TERRY_PATRICK                  
+     1 0015 CYCL002_County_Council_District_2   W/I_TINA_MARIE_ANDERSON            
+
+    20 0015 Commissioner_of_Agriculture         Chris_Nelums                       
+    20 0015 Commissioner_of_Agriculture         David_Edmond                       
+   131 0015 Commissioner_of_Agriculture         Hugh_Weathers                      
+    89 0015 Commissioner_of_Agriculture         UNDERVOTE                                260 UNDERVOTEA
+
+   149 0015 Comptroller_General                 Richard_Eckstrom                   
+   108 0015 Comptroller_General                 UNDERVOTE                                260 UNDERVOTEA
+     1 0015 Comptroller_General                 W/I_BUGS_BUNNY                     
+     1 0015 Comptroller_General                 W/I_CURTIS_SIBERT                  
+     1 0015 Comptroller_General                 W/I_MICKEY_MOUSE                   
+
+    88 0015 County_Auditor                      UNDERVOTE                                260 UNDERVOTEA
+   169 0015 County_Auditor                      Virginia_Cooter_Edmunds            
+     1 0015 County_Auditor                      W/I_DAFFY_DUCK                     
+     1 0015 County_Auditor                      W/I_JAMES_D_FREEMAN                
+     1 0015 County_Auditor                      W/I_PEDRO                          
+
+   173 0015 County_Treasurer                    Mary_Gable_Shirley                 
+    84 0015 County_Treasurer                    UNDERVOTE                                260 UNDERVOTEA
+     1 0015 County_Treasurer                    W/I_JAMES_D_FREEMAN                
+     1 0015 County_Treasurer                    W/I_PEDRO                          
+     1 0015 County_Treasurer                    W/I_SAMBO_SMITH                    
+
+   129 0015 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+   130 0015 Governor_and_Lieutenant_Governor    James_Smith                        
+     1 0015 Governor_and_Lieutenant_Governor    UNDERVOTE                                260 UNDERVOTEA
+
+   160 0015 HOU0012_State_House_of_Representatives Anne_Parks                         
+    93 0015 HOU0012_State_House_of_Representatives UNDERVOTE                                260 UNDERVOTEA
+     2 0015 HOU0012_State_House_of_Representatives W/I_BERT_BOATRIGHT                 
+     1 0015 HOU0012_State_House_of_Representatives W/I_DONALD_TRUMP                   
+     1 0015 HOU0012_State_House_of_Representatives W/I_GREG_PARROTT                   
+     1 0015 HOU0012_State_House_of_Representatives W/I_JAMES_D_FREEMAN                
+     1 0015 HOU0012_State_House_of_Representatives W/I_JANIE_BROADWATER               
+     1 0015 HOU0012_State_House_of_Representatives W/I_PEDRO                          
+
+   171 0015 Probate_Judge                       Kathryne_Kitty_Butler              
+    85 0015 Probate_Judge                       UNDERVOTE                                260 UNDERVOTEA
+     1 0015 Probate_Judge                       W/I_GREG_PARROTT                   
+     1 0015 Probate_Judge                       W/I_JAMES_D_FREEMAN                
+     1 0015 Probate_Judge                       W/I_PEDRO                          
+     1 0015 Probate_Judge                       W/I_SNOOPY                         
+
+     2 0015 STRAIGHT_PARTY                      American                           
+   111 0015 STRAIGHT_PARTY                      Democratic                         
+     1 0015 STRAIGHT_PARTY                      Green                              
+    90 0015 STRAIGHT_PARTY                      Republican                         
+    52 0015 STRAIGHT_PARTY                      UNDERVOTE                                260 UNDERVOTEA
+     2 0015 STRAIGHT_PARTY                      United_Citizens                    
+     2 0015 STRAIGHT_PARTY                      Working_Families                   
+
+   105 0015 School_Board_At_Large               Al_Bell                            
+    39 0015 School_Board_At_Large               Ansel_Fambrough                    
+    44 0015 School_Board_At_Large               Frank_Kenny_Puckett                
+    73 0015 School_Board_At_Large               Janie_J_Martin                     
+    50 0015 School_Board_At_Large               Melody_Wilt                        
+    68 0015 School_Board_At_Large               R_C_Holloway                       
+  -189 0015 School_Board_At_Large               UNDERVOTE                                260 UNDERVOTEA
+    70 0015 School_Board_At_Large               Verteema_S_Chiles                  
+
+   132 0015 Secretary_of_State                  Mark_Hammond                       
+   127 0015 Secretary_of_State                  Melvin_T_Whittenburg               
+     1 0015 Secretary_of_State                  UNDERVOTE                                260 UNDERVOTEA
+
+    77 0015 Soil_and_Water_District_Commissioner Edward_Deason                      
+    89 0015 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+    94 0015 Soil_and_Water_District_Commissioner UNDERVOTE                                260 UNDERVOTEA
+
+   127 0015 State_Superintendent_of_Education   Israel_Romero                      
+   130 0015 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+     3 0015 State_Superintendent_of_Education   UNDERVOTE                                260 UNDERVOTEA
+
+   126 0015 State_Treasurer                     Curtis_Loftis                      
+     5 0015 State_Treasurer                     Rosalyn_Glenn                      
+   123 0015 State_Treasurer                     Rosalyn_L_Glenn                    
+     3 0015 State_Treasurer                     Sarah_Work                         
+     3 0015 State_Treasurer                     UNDERVOTE                                260 UNDERVOTEA
+
+
+   535 0750 AMENDMENT_1                         No                                 
+    69 0750 AMENDMENT_1                         UNDERVOTE                               1156 UNDERVOTEA
+   552 0750 AMENDMENT_1                         Yes                                
+
+   571 0750 Attorney_General                    Alan_Wilson                        
+   567 0750 Attorney_General                    Constance_Anastopoulo              
+    18 0750 Attorney_General                    UNDERVOTE                               1156 UNDERVOTEA
+
+     5 0750 CON0003_U.S._House_of_Representatives Dave_Moore                         
+   574 0750 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+   566 0750 CON0003_U.S._House_of_Representatives Mary_Geren                         
+    11 0750 CON0003_U.S._House_of_Representatives UNDERVOTE                               1156 UNDERVOTEA
+
+   380 0750 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+    50 0750 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                               1156 UNDERVOTEA
+   726 0750 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+   361 0750 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+    48 0750 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                               1156 UNDERVOTEA
+   747 0750 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+    91 0750 CYCL002_County_Council_District_2   Bernie_Hamby                       
+  1064 0750 CYCL002_County_Council_District_2   UNDERVOTE                               1156 UNDERVOTEA
+     1 0750 CYCL002_County_Council_District_2   W/I_DUANE_HAMMOND                  
+
+   134 0750 CYCL005_County_Council_District_5   Earl_R_Coleman                     
+  1022 0750 CYCL005_County_Council_District_5   UNDERVOTE                               1156 UNDERVOTEA
+
+    62 0750 Commissioner_of_Agriculture         Chris_Nelums                       
+   110 0750 Commissioner_of_Agriculture         David_Edmond                       
+   582 0750 Commissioner_of_Agriculture         Hugh_Weathers                      
+   402 0750 Commissioner_of_Agriculture         UNDERVOTE                               1156 UNDERVOTEA
+
+   639 0750 Comptroller_General                 Richard_Eckstrom                   
+   510 0750 Comptroller_General                 UNDERVOTE                               1156 UNDERVOTEA
+     1 0750 Comptroller_General                 W/I_CAROLYN_AGNER                  
+     1 0750 Comptroller_General                 W/I_CHRIS_CALLAHAM                 
+     1 0750 Comptroller_General                 W/I_JANE_DOE                       
+     1 0750 Comptroller_General                 W/I_JOANNE_BAUGH                   
+     1 0750 Comptroller_General                 W/I_M_FARINA                       
+     1 0750 Comptroller_General                 W/I_STONEY_LITES                   
+     1 0750 Comptroller_General                 W/I_VIVIAN_JENNINGS                
+
+   401 0750 County_Auditor                      UNDERVOTE                               1156 UNDERVOTEA
+   753 0750 County_Auditor                      Virginia_Cooter_Edmunds            
+     1 0750 County_Auditor                      W/I_GERALD_E._LOWTHER              
+     1 0750 County_Auditor                      W/I_NONE                           
+
+   763 0750 County_Treasurer                    Mary_Gable_Shirley                 
+   391 0750 County_Treasurer                    UNDERVOTE                               1156 UNDERVOTEA
+     1 0750 County_Treasurer                    W/I_DOUGLAS_BRITT                  
+     1 0750 County_Treasurer                    W/I_GERALD_E._LOWTHER              
+
+   570 0750 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+   574 0750 Governor_and_Lieutenant_Governor    James_Smith                        
+    11 0750 Governor_and_Lieutenant_Governor    UNDERVOTE                               1156 UNDERVOTEA
+     1 0750 Governor_and_Lieutenant_Governor    W/I_MICKEY_MOUSE                   
+
+   651 0750 HOU0012_State_House_of_Representatives Anne_Parks                         
+   497 0750 HOU0012_State_House_of_Representatives UNDERVOTE                               1156 UNDERVOTEA
+     1 0750 HOU0012_State_House_of_Representatives W/I_ANYONE                         
+     1 0750 HOU0012_State_House_of_Representatives W/I_BILLY_NORRIS                   
+     1 0750 HOU0012_State_House_of_Representatives W/I_BO_WILLIS                      
+     1 0750 HOU0012_State_House_of_Representatives W/I_GERALD_E._LOWTHER              
+     2 0750 HOU0012_State_House_of_Representatives W/I_JOHN_SMITH                     
+     1 0750 HOU0012_State_House_of_Representatives W/I_MICKEY_MOUSE                   
+     1 0750 HOU0012_State_House_of_Representatives W/I_RICHARD_OBERMEYER              
+
+   780 0750 Probate_Judge                       Kathryne_Kitty_Butler              
+   374 0750 Probate_Judge                       UNDERVOTE                               1156 UNDERVOTEA
+     1 0750 Probate_Judge                       W/I_GERALD_E._LOWTHER              
+     1 0750 Probate_Judge                       W/I_JIM_FOSTER                     
+
+     3 0750 STRAIGHT_PARTY                      American                           
+   469 0750 STRAIGHT_PARTY                      Democratic                         
+     3 0750 STRAIGHT_PARTY                      Green                              
+   398 0750 STRAIGHT_PARTY                      Republican                         
+   277 0750 STRAIGHT_PARTY                      UNDERVOTE                               1156 UNDERVOTEA
+     4 0750 STRAIGHT_PARTY                      United_Citizens                    
+     2 0750 STRAIGHT_PARTY                      Working_Families                   
+
+   329 0750 School_Board_At_Large               Al_Bell                            
+   113 0750 School_Board_At_Large               Ansel_Fambrough                    
+   282 0750 School_Board_At_Large               Frank_Kenny_Puckett                
+   530 0750 School_Board_At_Large               Janie_J_Martin                     
+   511 0750 School_Board_At_Large               Melody_Wilt                        
+   300 0750 School_Board_At_Large               R_C_Holloway                       
+ -1286 0750 School_Board_At_Large               UNDERVOTE                               1156 UNDERVOTEA
+   377 0750 School_Board_At_Large               Verteema_S_Chiles                  
+
+   576 0750 Secretary_of_State                  Mark_Hammond                       
+   566 0750 Secretary_of_State                  Melvin_T_Whittenburg               
+    14 0750 Secretary_of_State                  UNDERVOTE                               1156 UNDERVOTEA
+
+   528 0750 Soil_and_Water_District_Commissioner Edward_Deason                      
+   476 0750 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+   151 0750 Soil_and_Water_District_Commissioner UNDERVOTE                               1156 UNDERVOTEA
+     1 0750 Soil_and_Water_District_Commissioner W/I_OSCAR_NEW                      
+
+   541 0750 State_Superintendent_of_Education   Israel_Romero                      
+   601 0750 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+    14 0750 State_Superintendent_of_Education   UNDERVOTE                               1156 UNDERVOTEA
+
+   569 0750 State_Treasurer                     Curtis_Loftis                      
+    11 0750 State_Treasurer                     Rosalyn_Glenn                      
+   552 0750 State_Treasurer                     Rosalyn_L_Glenn                    
+     5 0750 State_Treasurer                     Sarah_Work                         
+    19 0750 State_Treasurer                     UNDERVOTE                               1156 UNDERVOTEA
+
+     3 0750 TAX0001_MODOC_FIRE_PROTECTION_DISTRICT No,_Opposed_to_the_question        
+  1144 0750 TAX0001_MODOC_FIRE_PROTECTION_DISTRICT UNDERVOTE                               1156 UNDERVOTEA
+     9 0750 TAX0001_MODOC_FIRE_PROTECTION_DISTRICT Yes,_In_favor_of_the_question      
+
+
+     1 0850 AMENDMENT_1                         No                                 
+     1 0850 AMENDMENT_1                         UNDERVOTE                                  3 UNDERVOTEA
+     1 0850 AMENDMENT_1                         Yes                                
+
+     1 0850 Attorney_General                    Alan_Wilson                        
+     2 0850 Attorney_General                    Constance_Anastopoulo              
+     0 0850 Attorney_General                    UNDERVOTE                                  3 UNDERVOTEA
+
+     1 0850 CON0003_U.S._House_of_Representatives Jeff_Duncan                        
+     2 0850 CON0003_U.S._House_of_Representatives Mary_Geren                         
+     0 0850 CON0003_U.S._House_of_Representatives UNDERVOTE                                  3 UNDERVOTEA
+
+     2 0850 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES No,_Opposed_to_the_question        
+     0 0850 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES UNDERVOTE                                  3 UNDERVOTEA
+     1 0850 COUNTY_SUNDAY_ALCOHOL_SALE-OFF-PREMISES Yes,_In_favor_of_the_question      
+
+     1 0850 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES No,_Opposed_to_the_question        
+     1 0850 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES UNDERVOTE                                  3 UNDERVOTEA
+     1 0850 COUNTY_SUNDAY_ALCOHOL_SALE-ON-PREMISES Yes,_In_favor_of_the_question      
+
+     1 0850 CYCL005_County_Council_District_5   Earl_R_Coleman                     
+     2 0850 CYCL005_County_Council_District_5   UNDERVOTE                                  3 UNDERVOTEA
+
+     1 0850 Commissioner_of_Agriculture         Hugh_Weathers                      
+     2 0850 Commissioner_of_Agriculture         UNDERVOTE                                  3 UNDERVOTEA
+
+     1 0850 Comptroller_General                 Richard_Eckstrom                   
+     2 0850 Comptroller_General                 UNDERVOTE                                  3 UNDERVOTEA
+
+     0 0850 County_Auditor                      UNDERVOTE                                  3 UNDERVOTEA
+     3 0850 County_Auditor                      Virginia_Cooter_Edmunds            
+
+     3 0850 County_Treasurer                    Mary_Gable_Shirley                 
+     0 0850 County_Treasurer                    UNDERVOTE                                  3 UNDERVOTEA
+
+     1 0850 Governor_and_Lieutenant_Governor    Henry_McMaster                     
+     2 0850 Governor_and_Lieutenant_Governor    James_Smith                        
+     0 0850 Governor_and_Lieutenant_Governor    UNDERVOTE                                  3 UNDERVOTEA
+
+     3 0850 HOU0012_State_House_of_Representatives Anne_Parks                         
+     0 0850 HOU0012_State_House_of_Representatives UNDERVOTE                                  3 UNDERVOTEA
+
+     3 0850 Probate_Judge                       Kathryne_Kitty_Butler              
+     0 0850 Probate_Judge                       UNDERVOTE                                  3 UNDERVOTEA
+
+     2 0850 STRAIGHT_PARTY                      Democratic                         
+     1 0850 STRAIGHT_PARTY                      UNDERVOTE                                  3 UNDERVOTEA
+
+     3 0850 School_Board_At_Large               Al_Bell                            
+     1 0850 School_Board_At_Large               Ansel_Fambrough                    
+     2 0850 School_Board_At_Large               Janie_J_Martin                     
+     1 0850 School_Board_At_Large               Melody_Wilt                        
+     1 0850 School_Board_At_Large               R_C_Holloway                       
+    -6 0850 School_Board_At_Large               UNDERVOTE                                  3 UNDERVOTEA
+     1 0850 School_Board_At_Large               Verteema_S_Chiles                  
+
+     1 0850 Secretary_of_State                  Mark_Hammond                       
+     2 0850 Secretary_of_State                  Melvin_T_Whittenburg               
+     0 0850 Secretary_of_State                  UNDERVOTE                                  3 UNDERVOTEA
+
+     2 0850 Soil_and_Water_District_Commissioner Edward_Deason                      
+     3 0850 Soil_and_Water_District_Commissioner Phyllis_Albert                     
+    -2 0850 Soil_and_Water_District_Commissioner UNDERVOTE                                  3 UNDERVOTEA
+
+     2 0850 State_Superintendent_of_Education   Israel_Romero                      
+     1 0850 State_Superintendent_of_Education   Molly_Mitchell_Spearman            
+     0 0850 State_Superintendent_of_Education   UNDERVOTE                                  3 UNDERVOTEA
+
+     1 0850 State_Treasurer                     Curtis_Loftis                      
+     2 0850 State_Treasurer                     Rosalyn_L_Glenn                    
+     0 0850 State_Treasurer                     UNDERVOTE                                  3 UNDERVOTEA

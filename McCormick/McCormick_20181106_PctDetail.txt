@@ -1,0 +1,53 @@
+Pct data for McCormick
+
+Vote counts are "registered (total optical ivo flash) 155 155thispct,"
+
+(155)    0001 - Mt. Carmel                        0 (  141     0     0     0     0   141     0)   141   141
+    terminals: ( 5119262 5122418) 
+    open/close pebs: ( 153832) ( 153832)
+(155)    0002 - Monticello                        0 (  243     0     0     0     0   243     0)   243   243
+    terminals: ( 5126609 5130530) 
+    open/close pebs: ( 153690) ( 153690)
+(155)    0003 - Savannah                          0 (  798     0     0     0     0   798     0)   798   798
+    terminals: ( 5105698 5113119 5128365 5130227 5130325 5130430) 
+    open/close pebs: ( 153627 166005) ( 153627)
+(155)    0004 - Willington                        0 (   87     0     0     0     0    87     0)    87    87
+    terminals: ( 5129509 5130049) 
+    open/close pebs: ( 153779) ( 153779)
+(155)    0006 - McCormick No. 1                   0 (  418     0     0     0     0   418     0)   418   418
+    terminals: ( 5118877 5125636 5131350) 
+    open/close pebs: ( 153700) ( 153700)
+(155)    0008 - Bethany                           0 (  191     0     0     0     0   191     0)   191   191
+    terminals: ( 5102655 5135415) 
+    open/close pebs: ( 153600 PEBxxx) ( 153600)
+(155)    0009 - McCormick No. 2                   0 (  330     0     0     0     0   330     0)   330   330
+    terminals: ( 5111841 5122988 5124376) 
+    open/close pebs: ( 154104) ( 154104)
+(155)    0010 - Plum Branch                       0 (  360     0     0     0     0   360     0)   360   360
+    terminals: ( 5108537 5127330 5138574) 
+    open/close pebs: ( 154345) ( 154345)
+(155)    0013 - Parksville                        0 (  108     0     0     0     0   108     0)   108   108
+    terminals: ( 5124081 5138430) 
+    open/close pebs: ( 137566) ( 137566)
+(155)    0014 - Modoc                             0 (  170     0     0     0     0   170     0)   170   170
+    terminals: ( 5121310 5127556) 
+    open/close pebs: ( 140607) ( 140607)
+(155)    0015 - Clark's Hill                      0 (  260     0     0     0     0   260     0)   260   260
+    terminals: ( 5111463 5124317) 
+    open/close pebs: ( 154815) ( 154815)
+(155)    0750 - Absentee                          0 ( 1370     0     0     0   214  1156     0)  1159  1156
+    terminals: ( 5118412 5121678 5125821 5136122) 
+    open/close pebs: ( 146862 153503) ( 153503)
+(30A)    0800 Emergency                           0 (    0     0     0     0     0     0     0) xxxxx xxxxx
+    terminals: () 
+    open/close pebs: () ()
+(155)    0850 - Failsafe                          0 (    3     0     0     0     0     3     0)   425     3
+    terminals: ( 5125821) 
+    open/close pebs: ( 146862) ( 153503)
+(30A)    0900 Provisional                         0 (    0     0     0     0     0     0     0) xxxxx xxxxx
+    terminals: () 
+    open/close pebs: () ()
+(30A)    0950 Failsafe Provisional                0 (    0     0     0     0     0     0     0) xxxxx xxxxx
+    terminals: () 
+    open/close pebs: () ()
+Total number of Pcts: 16

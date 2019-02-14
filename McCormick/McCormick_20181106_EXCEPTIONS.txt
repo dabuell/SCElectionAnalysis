@@ -1,0 +1,123 @@
+########## ########## ########## ########## ########## ##########
+########## ########## ########## ########## ########## ##########
+
+EXCEPTIONS report for McCormick
+
+Ballot total in 152       4265
+Ballot total in 155       4265
+
+########## ########## ########## ########## ########## ##########
+
+Listing ivos only in 152 or in 155 (includes 750+)
+
+Ivos found only in 152 and not in 155
+Number of such ivos: 0
+
+Ivos found only in 155 and not in 152
+Number of such ivos: 0
+
+
+########## ########## ########## ########## ########## ##########
+
+Listing ivos opened and closed with different PEBs (includes 750+)
+This listing comes from the 152 file
+
+Opening PEB PEBxxx not closing PEB 153600 ( 0008)
+Opening PEB 146862 not closing PEB 153503 ( 0750 0850)
+Opening PEB 166005 not closing PEB 153627 ( 0003)
+Number of such ivos: 3
+
+
+########## ########## ########## ########## ########## ##########
+
+Listing precincts with multiple PEBs for closing (includes 750+)
+
+Number of such pcts: 0
+
+
+########## ########## ########## ########## ########## ##########
+
+Listing PEBs only in 68A or 152 (includes 750+)
+
+PEBs found only in 68A and not in 152
+Number of such pebs: 0
+
+PEBs closing in 152 but not present in 68A
+Number of such pebs: 0
+
+
+########## ########## ########## ########## ########## ##########
+
+
+########## ########## ########## ########## ########## ##########
+
+Listing ivos with anomalous opening/closing times
+Early time means before 2018_11_06 05:30:00
+Late time means after   2018_11_06 19:30:00
+
+Listing ivos with no opening/closing times (includes 750+)
+All ivos not in the 152 will appear here
+
+Ivos with no closing time
+NO CLOSETIME (68A)    NNNN N N  5135557 ( PEBxxx x dummydate dummyopentime  dummydate dummytime) ( PEBxxx dummydate dummytime  dummydate dummyclosetime)       0       0       0       0 () ( ) ['10-04  03:20 pm', '10-04  03:21 pm', '10-04  03:21 pm']Number of such ivos: 1
+
+
+Listing ivos with early opening times (EXCLUDES 750+)
+
+Ivos with early opening time
+Number of such ivos: 0
+
+
+Listing ivos with late opening times (EXCLUDES 750+)
+
+Ivos with late opening time
+LATE OPENTIME (152)    0003 Y Y  5130227 ( 166005 x 2018_11_06 16:00:08  2018_11_06 16:03:25) ( 153627 2018_11_06 18:59:08  2018_11_06 19:14:18)      59      59      59       0 ( 0003) (   2  3) ['11-07  09:34 am']
+LATE OPENTIME (152)    0003 Y Y  5130325 ( 153627 R 2018_11_06 10:25:26  2018_11_06 10:30:48) ( 153627 2018_11_06 14:07:01  2018_11_06 20:23:30)      68      68      68       0 ( 0003) (   2  3) ['11-07  09:35 am']
+Number of such ivos: 2
+
+
+Listing ivos with early closing times (EXCLUDES 750+)
+
+Ivos with early closing time
+EARLY CLOSETIME (152)    0003 Y Y  5130430 ( 153627 x 2018_11_06 06:29:07  2018_11_06 07:06:47) ( 153627 2018_11_06 10:21:27  2018_11_06 14:57:50)      22      22      22       0 ( 0003) (   2  3) ['11-07  09:34 am']
+Number of such ivos: 1
+
+
+Listing ivos with late closing times (EXCLUDES 750+)
+
+Ivos with late closing time
+LATE CLOSETIME (152)    0003 Y Y  5128365 ( 153627 R 2018_11_06 05:37:44  2018_11_06 06:08:21) ( 153627 2018_11_06 17:56:46  2018_11_06 19:30:49)     226     226     226       0 ( 0003) (   2  3) ['11-07  09:34 am']
+LATE CLOSETIME (152)    0003 Y Y  5130325 ( 153627 R 2018_11_06 10:25:26  2018_11_06 10:30:48) ( 153627 2018_11_06 14:07:01  2018_11_06 20:23:30)      68      68      68       0 ( 0003) (   2  3) ['11-07  09:35 am']
+Number of such ivos: 2
+
+
+
+########## ########## ########## ########## ########## ##########
+
+Listing ivos whose mem card data was not collected (includes 750+)
+This list is of all known ivos not in the 68A
+
+Number of such ivos: 0
+
+
+########## ########## ########## ########## ########## ##########
+
+Dates of 68A first collection of mem card data (includes 750+)
+      1      10-04
+     33      11-07
+
+
+########## ########## ########## ########## ########## ##########
+
+Listing of pcts with missing mem card data (EXCLUDES 750+)
+Number of such pcts: 0
+
+
+########## ########## ########## ########## ########## ##########
+
+Listing of pcts entirely missing from 155 (EXCLUDES 750+)
+Number of such pcts: 0
+
+
+########## ########## ########## ########## ########## ##########
+

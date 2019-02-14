@@ -1,0 +1,65 @@
+Event texts for McCormick
+
+0000107 Select: Election Services Menu
+0000109 Select: Print Polling Place Zero Tape
+0000110 Select: Close Terminal Early
+0000114 Select: Setup & Configuration Menu
+0000116 Select: Configure Terminal
+0000117 Select: Set Time and Date
+0000118 Select: Enable Audio Ballot
+0000167 Select: Lock Terminal
+0000168 Select: Unlock Terminal
+0000169 Select: Calibrate Screen
+0000178 Select: Test Ballot Calibration
+0000203 Option: Print Zero Tape(s)
+0000300 Start password procedure
+0000301 Start override password procedure
+0000302 Password procedure cancelled
+0000621 Warning: Terminal reset from voting
+0000710 PEB EQC mismatch to terminal config EQC
+0000823 Ballot Type and Database Not Supported
+0001003 Failed to get PEB ballot header block
+0001206 Vote data transfer to non-master PEB
+0001211 Terminal votes to PEB successful
+0001215 Terminal write-in data to PEB successful
+0001221 Collect terminal vote data to PEB
+0001222 Terminal vote collection successful
+0001303 Transfer PEB vote data to terminal
+0001319 Update PEB's terminal record
+0001513 Vote cancelled - wrong ballot
+0001515 Vote canceled - voter left before ballot
+0001516 Vote cancelled - voter request
+0001517 Vote cancelled - printer problem
+0001518 Vote cancelled - terminal problem
+0001519 Vote cancelled - other reason
+0001607 Clear-n-test terminal flash successful
+0001615 Opening terminal failed - PEB contains votes
+0001626 Terminal closing initiated
+0001627 Cancel terminal closing
+0001628 Warning - terminal closed early
+0001629 Override early terminal closing
+0001639 Terminal is locked
+0001640 Terminal is unlocked
+0001649 Terminal - entered service menus
+0001650 Terminal - exited service menus
+0001651 Warning - cannot read terminal screen
+0001652 Terminal touch-screen test
+0001654 Cancel terminal screen calibration
+0001655 Terminal touch-screen recalibrated
+0001656 Set terminal date and/or time
+0001672 Terminal Opened
+0001673 Terminal Closed
+0001710 Unidentified PEB inserted
+0001751 Super PEB type - Key PEB
+0002006 Print task was cancelled
+0002010 Print cumulative zeros tape
+0002016 Election or audit report task completed
+0002111 Exit Test Ballot Calibration
+0002210 PEB block CRC error
+0002807 Terminal - locked state
+0002810 Terminal - time to close voting
+0002900 Vote cast by voter - Visual
+0002903 Vote cast by poll worker - Visual
+0002905 Vote cast by poll worker - Audio
+0002909 Vote cast by voter - Visual - CODED **
+Total number of event texts: 62

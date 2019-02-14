@@ -1,0 +1,185 @@
+McCormick_20161108_EXCEPTIONS.txt
+
+(For reference: South Carolina puts all the absentee, provisional, etc.,
+votes in "virtual precincts" numbered 750, 850, etc. Since these have
+very different characteristics of use, I sometimes exclude those precincts
+from my reporting. For example, the absentee voting at county HQ on the
+iVos will show opening and closing over several days, with some votes each
+day, and thus that information is not relevant to determining which iVos
+just failed to work properly on Election Day.)  
+
+This is the baseline report of the things that might have gone wrong.
+First I report the total number of votes as per the 152 file (code 2900, etc.)
+Then the total number of votes as per the 155 file (number of asterisks).
+These numbers should be the same. They won't be the same if not all the
+files were uploaded, or if test votes were left in the database, or such.
+
+I do not use this as gospel truth of things that have gone wrong.  I use
+this as the indicator of what might have gone wrong.  See the comments
+two paragraphs down about multiple PEBs for opening and closing.  Often,
+it seems that this happens because the PEB itself has failed.
+
+Accounting for all the iVotronics:
+I list the number of iVotronics by serial number that were in the 152 but
+not the 155, or the other way around. USUALLY the ones in the 152 but
+not 155 are iVotronics that recorded no votes because they were misbehaving
+on Election Day.  When I create instances of classes, I usually try to fill
+the class variables with dummy values so I can tell that there has been
+nothing entered later.  So the 'dummy' value labels are instances in which
+that serial number has never appeared elsewhere in the data.
+
+Accounting for all the PEBs:
+We have had votes not counted, in various counties, over various elections,
+because poll managers opened and closed with multiple PEBs but "the second PEB"
+didn't get its totals put into the master file. So I pay special attention to
+iVos opened and closed with different PEBs, and I match up all the PEBs by
+serial number, used for closing in the 152 file, with PEBs whose totals get
+uploaded to the master, and show up in the 68A file. 
+
+Opening and closing times:
+The timestamp in the iVo doesn't actually control anything (except causing
+a message to pop up every time if the time in the iVo is after the official
+closing time). But there is a known bug in the software that has led to
+votes not being counted. If an iVotronic is opened late, by a technician, using
+a PEB that the technician has and not the precinct's PEB, then the paper
+tape at the end of Election Day, when the poll manager tries to close the
+iVotronic, can say "Machine not opened". In fact, the tape should say "Machine
+not opened with this PEB", but it doesn't. (I have witnessed this personally.)
+So it's important to know which iVotronics were opened late, and especially
+which PEBs were used to open those iVotronics. 
+
+(I'll get to the description of the line describing the iVo further down.)
+
+Memory Card:
+I pay especial attention to the collection of data from the memory cards.
+In the case of McCormick, none of that got done properly, apparently.
+It is not unusual to see memory cards read in multiple times.
+
+
+McCormick_20161108_EventCounts.txt
+McCormick_20161108_EventLogs.txt
+McCormick_20161108_EventTexts.txt
+The event logs provide valuable information about whether there were iVotronics
+that failed or didn't work very well. I count the number of log messages, the
+number by type, etc., and I pull some of the messages that indicate genuine
+failure (like memory card problems) or crankiness (perhaps an excessive need
+for calibration). 
+
+McCormick_20161108_FirstLastWorking.txt
+After the debacle of long lines in 2012, I added code that would tell me
+how many iVos were actually collecting votes in each 15 minute period
+during the day.  (Here's one place where I toss the data for the
+precincts numbered 750 and above).
+
+Not having votes in a 15 minute period could indicate light turnout, but if one
+iVotronic in a precinct is not collecting votes and the others are, that could
+indicate a bad iVotronic, and one can target the specific 152 record for that
+to find out what the log says.
+
+
+McCormick_20161108_IvosAndPcts.txt
+This is one of the crucial files. I count the number of votes per iVo as
+shown in the 152 and in the 155 and I compare that to the number of votes in
+the 30A. This is the one that catches the problem of using multiple PEBs to
+open and close, but not having the second PEB get its totals uploaded. If
+the closing was successful, and the memory card data uploaded to the master,
+then the vote counts will be in the 152 and 155, but not in the 30A.
+
+By precinct, by iVo, I count the number of votes in the 152, and in the 155,
+and then at the end compare that total (the 138 for Mt. Carmel before the
+colon) against the 30A (the 138 after the colon, with the difference in 
+parentheses. 
+
+If there are more votes in the 30A than in the 152/155, it usually means there
+is a memory card that has not been uploaded. That's a minor sin. If there are
+fewer votes in the 30A, it usually means that votes in an iVo have not been
+included in the official count, and that's bad.
+
+
+McCormick_20161108_IvoDetail.txt
+This has the detail for each iVotronic.
+I will go through McCormick as an example.
+(152)   : the serial number was first encountered in the 152 file. This is the
+          first file I process, so this is normal.
+M       : The 'M' means that the 68A shows the memory card was uploaded
+0009    : The precinct in which the iVo was used.   
+Y       : The serial number is present in the 152    
+Y       : The serial number is present in the 155 
+5102655 : The serial number    
+( 154104 x 2016_11_08 06:38:41  2016_11_08 07:03:55) :
+          Opened with PEB serial number 154104
+          'x' means the time was not reset on Election Day, 'R' means it was
+          Date and time opened, in this case 6:38AM
+          Date and time of collecting the first vote, in this case 7:03AM
+( 154104 2016_11_08 18:45:33  2016_11_08 19:02:57)
+          Closed with PEB serial number 154104
+          Closed with PEB serial number 154104
+          Date and time of collecting the last vote, in this case 6:45PM
+          Date and time closed, in this case 7:02PM
+121, 121, 121, 0 :
+          Number of votes in the 152
+          Number of votes in the 155
+          Number of votes in the 155 for this precinct
+          Number of votes cast after closing time
+(0009) : Precinct number again
+(###)  : The ballot style numbers used in this iVo
+[time] : The time(s) when the memory card data was collected into the master
+
+(For the longest time, only Charleston County would put multiple precincts
+in the same polling place on the same iVotronics.  I have recently seen that
+Berkeley and Beaufort Counties have done this.  It messes up my counts a
+little, but isn't a big deal as long as it's only a couple of counties.)
+
+
+McCormick_20161108_PEBDetail.txt
+This has detail information on the PEBs. As mentioned above, the big issue we
+have had is with multiple PEBs used for closing and then not uploaded. So
+I keep track of each PEB, whether it was used for closing ('CLO-T' for
+"closing True"), whether it shows up in the 152 and/or the 68A, which
+precincts, and which iVo serial numbers were associated with that PEB. 
+
+
+
+McCormick_20161108_PctDetail.txt
+This gives a check on the precincts. The first column is where the pct first
+appears, which is usually the 155 except for the virtual precincts. I pick up
+the number of voters and the votes collected from the 30A and then verify
+against the number of votes in the 152 and 155.
+
+There are discrepancies that show up here. For the virtual precincts, there are
+usually discrepancies. It sometimes happens that a iVotronic that couldn't be
+closed had its data uploaded in a different way. And I always have problems
+reading the 30A files because different counties choose to put data in different
+columns.  With the June primary, this was only Fairfield and Marlboro, and
+life was much simpler.
+
+
+
+
+McCormick_20161108_MemoryCards.txt
+This file, which doesn't show up in McCormick County but does in Allendale,
+lists when the memory cards from the iVos were uploaded to the master.
+
+
+
+
+
+McCormick_20161108_BallotStyles.txt
+Since I don't have access to the ballot styles from the counties, I can
+only infer what they were by what votes were cast. This file isn't entirely
+correct, then, because it could happen that a candidate in a ballot style
+in a small jurisdiction wound up with no votes, and then wouldn't show up
+at all. But this helps.
+
+
+
+
+McCormick_20161108_ResultsAPctIvoBSCanCon.txt
+McCormick_20161108_ResultsBPctIvoCanCon.txt
+McCormick_20161108_ResultsCPctCanCon.txt
+McCormick_20161108_ResultsDCanCon.txt
+I run totals from the 155 of who got the votes:
+A: by ballot style, iVotronic, precinct, candidate, and contest.
+B: by iVotronic, precinct, candidate, and contest.
+C: by precinct, candidate, and contest.
+D: by candidate and contest.

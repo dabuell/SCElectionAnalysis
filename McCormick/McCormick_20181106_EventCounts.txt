@@ -1,0 +1,822 @@
+Event logs for McCormick
+
+5102655   1 0000107 Select: Election Services Menu
+5102655   1 0000109 Select: Print Polling Place Zero Tape
+5102655   1 0000116 Select: Configure Terminal
+5102655   1 0000117 Select: Set Time and Date
+5102655   1 0000169 Select: Calibrate Screen
+5102655   1 0000300 Start password procedure
+5102655   2 0001211 Terminal votes to PEB successful
+5102655   1 0001215 Terminal write-in data to PEB successful
+5102655   1 0001221 Collect terminal vote data to PEB
+5102655   1 0001222 Terminal vote collection successful
+5102655   4 0001303 Transfer PEB vote data to terminal
+5102655   1 0001319 Update PEB's terminal record
+5102655   1 0001518 Vote cancelled - terminal problem
+5102655   1 0001607 Clear-n-test terminal flash successful
+5102655   2 0001626 Terminal closing initiated
+5102655   2 0001627 Cancel terminal closing
+5102655   1 0001649 Terminal - entered service menus
+5102655   1 0001650 Terminal - exited service menus
+5102655   1 0001652 Terminal touch-screen test
+5102655   1 0001655 Terminal touch-screen recalibrated
+5102655   1 0001656 Set terminal date and/or time
+5102655   1 0001673 Terminal Closed
+5102655   1 0002010 Print cumulative zeros tape
+5102655   1 0002016 Election or audit report task completed
+5102655   3 0002810 Terminal - time to close voting
+5102655  99 0002900 Vote cast by voter - Visual
+
+5105698   1 0000116 Select: Configure Terminal
+5105698   1 0000117 Select: Set Time and Date
+5105698   1 0000169 Select: Calibrate Screen
+5105698   2 0001211 Terminal votes to PEB successful
+5105698   1 0001215 Terminal write-in data to PEB successful
+5105698   1 0001221 Collect terminal vote data to PEB
+5105698   1 0001222 Terminal vote collection successful
+5105698   3 0001303 Transfer PEB vote data to terminal
+5105698   1 0001319 Update PEB's terminal record
+5105698   1 0001607 Clear-n-test terminal flash successful
+5105698   1 0001626 Terminal closing initiated
+5105698   1 0001650 Terminal - exited service menus
+5105698   1 0001652 Terminal touch-screen test
+5105698   1 0001655 Terminal touch-screen recalibrated
+5105698   1 0001656 Set terminal date and/or time
+5105698   1 0001672 Terminal Opened
+5105698   1 0001673 Terminal Closed
+5105698   1 0002810 Terminal - time to close voting
+5105698 208 0002900 Vote cast by voter - Visual
+
+5108537   1 0000116 Select: Configure Terminal
+5108537   1 0000117 Select: Set Time and Date
+5108537   1 0000169 Select: Calibrate Screen
+5108537   1 0000621 Warning: Terminal reset from voting
+5108537   2 0001211 Terminal votes to PEB successful
+5108537   1 0001215 Terminal write-in data to PEB successful
+5108537   1 0001221 Collect terminal vote data to PEB
+5108537   1 0001222 Terminal vote collection successful
+5108537   3 0001303 Transfer PEB vote data to terminal
+5108537   1 0001319 Update PEB's terminal record
+5108537   1 0001607 Clear-n-test terminal flash successful
+5108537   1 0001626 Terminal closing initiated
+5108537   1 0001650 Terminal - exited service menus
+5108537   1 0001652 Terminal touch-screen test
+5108537   1 0001655 Terminal touch-screen recalibrated
+5108537   1 0001656 Set terminal date and/or time
+5108537   1 0001672 Terminal Opened
+5108537   1 0001673 Terminal Closed
+5108537   1 0002810 Terminal - time to close voting
+5108537 117 0002900 Vote cast by voter - Visual
+
+5111463   1 0000116 Select: Configure Terminal
+5111463   1 0000117 Select: Set Time and Date
+5111463   1 0000169 Select: Calibrate Screen
+5111463   6 0000621 Warning: Terminal reset from voting
+5111463   2 0001211 Terminal votes to PEB successful
+5111463   1 0001215 Terminal write-in data to PEB successful
+5111463   1 0001221 Collect terminal vote data to PEB
+5111463   1 0001222 Terminal vote collection successful
+5111463   3 0001303 Transfer PEB vote data to terminal
+5111463   1 0001319 Update PEB's terminal record
+5111463   1 0001516 Vote cancelled - voter request
+5111463   3 0001519 Vote cancelled - other reason
+5111463   1 0001607 Clear-n-test terminal flash successful
+5111463   1 0001626 Terminal closing initiated
+5111463   1 0001650 Terminal - exited service menus
+5111463   1 0001652 Terminal touch-screen test
+5111463   1 0001655 Terminal touch-screen recalibrated
+5111463   1 0001656 Set terminal date and/or time
+5111463   1 0001672 Terminal Opened
+5111463   1 0001673 Terminal Closed
+5111463   1 0002810 Terminal - time to close voting
+5111463 129 0002900 Vote cast by voter - Visual
+
+5111841   1 0000116 Select: Configure Terminal
+5111841   1 0000117 Select: Set Time and Date
+5111841   1 0000169 Select: Calibrate Screen
+5111841   2 0000621 Warning: Terminal reset from voting
+5111841   2 0001211 Terminal votes to PEB successful
+5111841   1 0001215 Terminal write-in data to PEB successful
+5111841   1 0001221 Collect terminal vote data to PEB
+5111841   1 0001222 Terminal vote collection successful
+5111841   3 0001303 Transfer PEB vote data to terminal
+5111841   1 0001319 Update PEB's terminal record
+5111841   1 0001607 Clear-n-test terminal flash successful
+5111841   1 0001626 Terminal closing initiated
+5111841   1 0001650 Terminal - exited service menus
+5111841   1 0001652 Terminal touch-screen test
+5111841   1 0001655 Terminal touch-screen recalibrated
+5111841   1 0001656 Set terminal date and/or time
+5111841   1 0001672 Terminal Opened
+5111841   1 0001673 Terminal Closed
+5111841   1 0002810 Terminal - time to close voting
+5111841 117 0002900 Vote cast by voter - Visual
+
+5113119   1 0000116 Select: Configure Terminal
+5113119   1 0000117 Select: Set Time and Date
+5113119   2 0001211 Terminal votes to PEB successful
+5113119   1 0001215 Terminal write-in data to PEB successful
+5113119   1 0001221 Collect terminal vote data to PEB
+5113119   1 0001222 Terminal vote collection successful
+5113119   3 0001303 Transfer PEB vote data to terminal
+5113119   1 0001319 Update PEB's terminal record
+5113119   1 0001607 Clear-n-test terminal flash successful
+5113119   1 0001626 Terminal closing initiated
+5113119   1 0001650 Terminal - exited service menus
+5113119   1 0001656 Set terminal date and/or time
+5113119   1 0001672 Terminal Opened
+5113119   1 0001673 Terminal Closed
+5113119   1 0002810 Terminal - time to close voting
+5113119 215 0002900 Vote cast by voter - Visual
+
+5118412   1 0000116 Select: Configure Terminal
+5118412   1 0000117 Select: Set Time and Date
+5118412   4 0000167 Select: Lock Terminal
+5118412   3 0000168 Select: Unlock Terminal
+5118412   1 0000169 Select: Calibrate Screen
+5118412  11 0000300 Start password procedure
+5118412   3 0000302 Password procedure cancelled
+5118412   1 0000621 Warning: Terminal reset from voting
+5118412   2 0001211 Terminal votes to PEB successful
+5118412   1 0001215 Terminal write-in data to PEB successful
+5118412   1 0001221 Collect terminal vote data to PEB
+5118412   1 0001222 Terminal vote collection successful
+5118412   3 0001303 Transfer PEB vote data to terminal
+5118412   1 0001319 Update PEB's terminal record
+5118412   1 0001607 Clear-n-test terminal flash successful
+5118412   1 0001626 Terminal closing initiated
+5118412   4 0001639 Terminal is locked
+5118412   4 0001640 Terminal is unlocked
+5118412   7 0001649 Terminal - entered service menus
+5118412   1 0001650 Terminal - exited service menus
+5118412   1 0001652 Terminal touch-screen test
+5118412   1 0001655 Terminal touch-screen recalibrated
+5118412   1 0001656 Set terminal date and/or time
+5118412   1 0001672 Terminal Opened
+5118412   1 0001673 Terminal Closed
+5118412   4 0002807 Terminal - locked state
+5118412   1 0002810 Terminal - time to close voting
+5118412  12 0002909 Vote cast by voter - Visual - CODED **
+
+5118877   2 0000116 Select: Configure Terminal
+5118877   1 0000117 Select: Set Time and Date
+5118877   1 0000169 Select: Calibrate Screen
+5118877   1 0000203 Option: Print Zero Tape(s)
+5118877   1 0000621 Warning: Terminal reset from voting
+5118877   2 0001211 Terminal votes to PEB successful
+5118877   1 0001215 Terminal write-in data to PEB successful
+5118877   1 0001221 Collect terminal vote data to PEB
+5118877   1 0001222 Terminal vote collection successful
+5118877   4 0001303 Transfer PEB vote data to terminal
+5118877   1 0001319 Update PEB's terminal record
+5118877   1 0001607 Clear-n-test terminal flash successful
+5118877   1 0001626 Terminal closing initiated
+5118877   1 0001650 Terminal - exited service menus
+5118877   1 0001652 Terminal touch-screen test
+5118877   1 0001655 Terminal touch-screen recalibrated
+5118877   1 0001656 Set terminal date and/or time
+5118877   1 0001672 Terminal Opened
+5118877   1 0001673 Terminal Closed
+5118877   1 0002006 Print task was cancelled
+5118877   1 0002010 Print cumulative zeros tape
+5118877   1 0002016 Election or audit report task completed
+5118877   2 0002810 Terminal - time to close voting
+5118877 133 0002900 Vote cast by voter - Visual
+
+5119262   1 0000116 Select: Configure Terminal
+5119262   1 0000117 Select: Set Time and Date
+5119262   1 0000169 Select: Calibrate Screen
+5119262   1 0000203 Option: Print Zero Tape(s)
+5119262   2 0001211 Terminal votes to PEB successful
+5119262   1 0001215 Terminal write-in data to PEB successful
+5119262   1 0001221 Collect terminal vote data to PEB
+5119262   1 0001222 Terminal vote collection successful
+5119262   4 0001303 Transfer PEB vote data to terminal
+5119262   1 0001319 Update PEB's terminal record
+5119262   1 0001607 Clear-n-test terminal flash successful
+5119262   1 0001626 Terminal closing initiated
+5119262   1 0001650 Terminal - exited service menus
+5119262   1 0001652 Terminal touch-screen test
+5119262   1 0001655 Terminal touch-screen recalibrated
+5119262   1 0001656 Set terminal date and/or time
+5119262   1 0001672 Terminal Opened
+5119262   1 0001673 Terminal Closed
+5119262   1 0002006 Print task was cancelled
+5119262   1 0002010 Print cumulative zeros tape
+5119262   1 0002016 Election or audit report task completed
+5119262   1 0002810 Terminal - time to close voting
+5119262  68 0002900 Vote cast by voter - Visual
+
+5121310   1 0000107 Select: Election Services Menu
+5121310   1 0000109 Select: Print Polling Place Zero Tape
+5121310   1 0000116 Select: Configure Terminal
+5121310   1 0000117 Select: Set Time and Date
+5121310   1 0000300 Start password procedure
+5121310   2 0001211 Terminal votes to PEB successful
+5121310   1 0001215 Terminal write-in data to PEB successful
+5121310   1 0001221 Collect terminal vote data to PEB
+5121310   1 0001222 Terminal vote collection successful
+5121310   4 0001303 Transfer PEB vote data to terminal
+5121310   1 0001319 Update PEB's terminal record
+5121310   1 0001519 Vote cancelled - other reason
+5121310   1 0001607 Clear-n-test terminal flash successful
+5121310   1 0001626 Terminal closing initiated
+5121310   1 0001649 Terminal - entered service menus
+5121310   1 0001650 Terminal - exited service menus
+5121310   1 0001656 Set terminal date and/or time
+5121310   1 0001672 Terminal Opened
+5121310   1 0001673 Terminal Closed
+5121310   1 0002010 Print cumulative zeros tape
+5121310   1 0002016 Election or audit report task completed
+5121310   1 0002810 Terminal - time to close voting
+5121310  78 0002900 Vote cast by voter - Visual
+
+5121678   1 0000114 Select: Setup & Configuration Menu
+5121678   1 0000116 Select: Configure Terminal
+5121678   1 0000117 Select: Set Time and Date
+5121678  24 0000167 Select: Lock Terminal
+5121678   9 0000168 Select: Unlock Terminal
+5121678   4 0000169 Select: Calibrate Screen
+5121678   1 0000178 Select: Test Ballot Calibration
+5121678  78 0000300 Start password procedure
+5121678  31 0000302 Password procedure cancelled
+5121678  10 0000621 Warning: Terminal reset from voting
+5121678   2 0001211 Terminal votes to PEB successful
+5121678   1 0001215 Terminal write-in data to PEB successful
+5121678   1 0001221 Collect terminal vote data to PEB
+5121678   1 0001222 Terminal vote collection successful
+5121678   3 0001303 Transfer PEB vote data to terminal
+5121678   1 0001319 Update PEB's terminal record
+5121678   1 0001513 Vote cancelled - wrong ballot
+5121678   1 0001519 Vote cancelled - other reason
+5121678   1 0001607 Clear-n-test terminal flash successful
+5121678   1 0001626 Terminal closing initiated
+5121678  23 0001639 Terminal is locked
+5121678  23 0001640 Terminal is unlocked
+5121678  35 0001649 Terminal - entered service menus
+5121678   3 0001650 Terminal - exited service menus
+5121678   1 0001652 Terminal touch-screen test
+5121678   3 0001654 Cancel terminal screen calibration
+5121678   1 0001655 Terminal touch-screen recalibrated
+5121678   1 0001656 Set terminal date and/or time
+5121678   1 0001672 Terminal Opened
+5121678   1 0001673 Terminal Closed
+5121678   1 0001751 Super PEB type - Key PEB
+5121678   1 0002111 Exit Test Ballot Calibration
+5121678  23 0002807 Terminal - locked state
+5121678   1 0002810 Terminal - time to close voting
+5121678   4 0002900 Vote cast by voter - Visual
+5121678 329 0002909 Vote cast by voter - Visual - CODED **
+
+5122418   1 0000116 Select: Configure Terminal
+5122418   1 0000117 Select: Set Time and Date
+5122418   1 0000169 Select: Calibrate Screen
+5122418   2 0001211 Terminal votes to PEB successful
+5122418   1 0001215 Terminal write-in data to PEB successful
+5122418   1 0001221 Collect terminal vote data to PEB
+5122418   1 0001222 Terminal vote collection successful
+5122418   3 0001303 Transfer PEB vote data to terminal
+5122418   1 0001319 Update PEB's terminal record
+5122418   1 0001607 Clear-n-test terminal flash successful
+5122418   1 0001626 Terminal closing initiated
+5122418   1 0001650 Terminal - exited service menus
+5122418   1 0001652 Terminal touch-screen test
+5122418   1 0001655 Terminal touch-screen recalibrated
+5122418   1 0001656 Set terminal date and/or time
+5122418   1 0001672 Terminal Opened
+5122418   1 0001673 Terminal Closed
+5122418   1 0002810 Terminal - time to close voting
+5122418  73 0002900 Vote cast by voter - Visual
+
+5122988   1 0000116 Select: Configure Terminal
+5122988   1 0000117 Select: Set Time and Date
+5122988   1 0000169 Select: Calibrate Screen
+5122988   4 0000621 Warning: Terminal reset from voting
+5122988   2 0001211 Terminal votes to PEB successful
+5122988   1 0001215 Terminal write-in data to PEB successful
+5122988   1 0001221 Collect terminal vote data to PEB
+5122988   1 0001222 Terminal vote collection successful
+5122988   3 0001303 Transfer PEB vote data to terminal
+5122988   1 0001319 Update PEB's terminal record
+5122988   1 0001513 Vote cancelled - wrong ballot
+5122988   1 0001515 Vote canceled - voter left before ballot
+5122988   1 0001607 Clear-n-test terminal flash successful
+5122988   1 0001626 Terminal closing initiated
+5122988   1 0001650 Terminal - exited service menus
+5122988   1 0001652 Terminal touch-screen test
+5122988   1 0001655 Terminal touch-screen recalibrated
+5122988   1 0001656 Set terminal date and/or time
+5122988   1 0001672 Terminal Opened
+5122988   1 0001673 Terminal Closed
+5122988   1 0002810 Terminal - time to close voting
+5122988 106 0002900 Vote cast by voter - Visual
+5122988   1 0002903 Vote cast by poll worker - Visual
+5122988   2 0002905 Vote cast by poll worker - Audio
+
+5124081   2 0000107 Select: Election Services Menu
+5124081   2 0000109 Select: Print Polling Place Zero Tape
+5124081   1 0000116 Select: Configure Terminal
+5124081   1 0000117 Select: Set Time and Date
+5124081   1 0000169 Select: Calibrate Screen
+5124081   1 0000203 Option: Print Zero Tape(s)
+5124081   2 0000300 Start password procedure
+5124081   3 0000621 Warning: Terminal reset from voting
+5124081   1 0000823 Ballot Type and Database Not Supported
+5124081   1 0001003 Failed to get PEB ballot header block
+5124081   2 0001211 Terminal votes to PEB successful
+5124081   1 0001215 Terminal write-in data to PEB successful
+5124081   1 0001221 Collect terminal vote data to PEB
+5124081   1 0001222 Terminal vote collection successful
+5124081   5 0001303 Transfer PEB vote data to terminal
+5124081   1 0001319 Update PEB's terminal record
+5124081   1 0001607 Clear-n-test terminal flash successful
+5124081   1 0001626 Terminal closing initiated
+5124081   2 0001649 Terminal - entered service menus
+5124081   1 0001650 Terminal - exited service menus
+5124081   1 0001652 Terminal touch-screen test
+5124081   1 0001655 Terminal touch-screen recalibrated
+5124081   1 0001656 Set terminal date and/or time
+5124081   1 0001672 Terminal Opened
+5124081   1 0001673 Terminal Closed
+5124081   1 0001710 Unidentified PEB inserted
+5124081   3 0002006 Print task was cancelled
+5124081   2 0002010 Print cumulative zeros tape
+5124081   1 0002016 Election or audit report task completed
+5124081   1 0002210 PEB block CRC error
+5124081   1 0002810 Terminal - time to close voting
+5124081  49 0002900 Vote cast by voter - Visual
+
+5124317   1 0000116 Select: Configure Terminal
+5124317   1 0000117 Select: Set Time and Date
+5124317   1 0000169 Select: Calibrate Screen
+5124317   1 0000203 Option: Print Zero Tape(s)
+5124317   5 0000621 Warning: Terminal reset from voting
+5124317   2 0001211 Terminal votes to PEB successful
+5124317   1 0001215 Terminal write-in data to PEB successful
+5124317   1 0001221 Collect terminal vote data to PEB
+5124317   1 0001222 Terminal vote collection successful
+5124317   4 0001303 Transfer PEB vote data to terminal
+5124317   1 0001319 Update PEB's terminal record
+5124317   1 0001607 Clear-n-test terminal flash successful
+5124317   1 0001626 Terminal closing initiated
+5124317   1 0001650 Terminal - exited service menus
+5124317   1 0001652 Terminal touch-screen test
+5124317   1 0001655 Terminal touch-screen recalibrated
+5124317   1 0001656 Set terminal date and/or time
+5124317   1 0001672 Terminal Opened
+5124317   1 0001673 Terminal Closed
+5124317   1 0002006 Print task was cancelled
+5124317   1 0002010 Print cumulative zeros tape
+5124317   1 0002016 Election or audit report task completed
+5124317   1 0002810 Terminal - time to close voting
+5124317 131 0002900 Vote cast by voter - Visual
+
+5124376   1 0000116 Select: Configure Terminal
+5124376   1 0000117 Select: Set Time and Date
+5124376   1 0000169 Select: Calibrate Screen
+5124376   1 0000203 Option: Print Zero Tape(s)
+5124376   1 0000621 Warning: Terminal reset from voting
+5124376   2 0001211 Terminal votes to PEB successful
+5124376   1 0001215 Terminal write-in data to PEB successful
+5124376   1 0001221 Collect terminal vote data to PEB
+5124376   1 0001222 Terminal vote collection successful
+5124376   4 0001303 Transfer PEB vote data to terminal
+5124376   1 0001319 Update PEB's terminal record
+5124376   1 0001607 Clear-n-test terminal flash successful
+5124376   1 0001626 Terminal closing initiated
+5124376   1 0001650 Terminal - exited service menus
+5124376   1 0001652 Terminal touch-screen test
+5124376   1 0001655 Terminal touch-screen recalibrated
+5124376   1 0001656 Set terminal date and/or time
+5124376   1 0001672 Terminal Opened
+5124376   1 0001673 Terminal Closed
+5124376   1 0002006 Print task was cancelled
+5124376   1 0002010 Print cumulative zeros tape
+5124376   1 0002016 Election or audit report task completed
+5124376   1 0002810 Terminal - time to close voting
+5124376 104 0002900 Vote cast by voter - Visual
+
+5125636   1 0000114 Select: Setup & Configuration Menu
+5125636   2 0000116 Select: Configure Terminal
+5125636   2 0000117 Select: Set Time and Date
+5125636   1 0000169 Select: Calibrate Screen
+5125636   1 0000300 Start password procedure
+5125636   1 0000621 Warning: Terminal reset from voting
+5125636   2 0001211 Terminal votes to PEB successful
+5125636   1 0001215 Terminal write-in data to PEB successful
+5125636   1 0001221 Collect terminal vote data to PEB
+5125636   1 0001222 Terminal vote collection successful
+5125636   3 0001303 Transfer PEB vote data to terminal
+5125636   1 0001319 Update PEB's terminal record
+5125636   1 0001607 Clear-n-test terminal flash successful
+5125636   1 0001626 Terminal closing initiated
+5125636   1 0001650 Terminal - exited service menus
+5125636   1 0001652 Terminal touch-screen test
+5125636   1 0001655 Terminal touch-screen recalibrated
+5125636   2 0001656 Set terminal date and/or time
+5125636   1 0001672 Terminal Opened
+5125636   1 0001673 Terminal Closed
+5125636   1 0002810 Terminal - time to close voting
+5125636 144 0002900 Vote cast by voter - Visual
+
+5125821   1 0000116 Select: Configure Terminal
+5125821   1 0000117 Select: Set Time and Date
+5125821  17 0000167 Select: Lock Terminal
+5125821   6 0000168 Select: Unlock Terminal
+5125821   1 0000169 Select: Calibrate Screen
+5125821  62 0000300 Start password procedure
+5125821  28 0000302 Password procedure cancelled
+5125821  15 0000621 Warning: Terminal reset from voting
+5125821   1 0000710 PEB EQC mismatch to terminal config EQC
+5125821   2 0001003 Failed to get PEB ballot header block
+5125821   1 0001206 Vote data transfer to non-master PEB
+5125821   2 0001211 Terminal votes to PEB successful
+5125821   1 0001215 Terminal write-in data to PEB successful
+5125821   1 0001221 Collect terminal vote data to PEB
+5125821   1 0001222 Terminal vote collection successful
+5125821   3 0001303 Transfer PEB vote data to terminal
+5125821   1 0001319 Update PEB's terminal record
+5125821   1 0001513 Vote cancelled - wrong ballot
+5125821   1 0001519 Vote cancelled - other reason
+5125821   1 0001607 Clear-n-test terminal flash successful
+5125821   1 0001626 Terminal closing initiated
+5125821  17 0001639 Terminal is locked
+5125821  17 0001640 Terminal is unlocked
+5125821  23 0001649 Terminal - entered service menus
+5125821   1 0001650 Terminal - exited service menus
+5125821   1 0001652 Terminal touch-screen test
+5125821   1 0001655 Terminal touch-screen recalibrated
+5125821   1 0001656 Set terminal date and/or time
+5125821   1 0001672 Terminal Opened
+5125821   1 0001673 Terminal Closed
+5125821   3 0001751 Super PEB type - Key PEB
+5125821   2 0002210 PEB block CRC error
+5125821  17 0002807 Terminal - locked state
+5125821   1 0002810 Terminal - time to close voting
+5125821   3 0002900 Vote cast by voter - Visual
+5125821 422 0002909 Vote cast by voter - Visual - CODED **
+
+5126609   1 0000116 Select: Configure Terminal
+5126609   1 0000117 Select: Set Time and Date
+5126609   1 0000169 Select: Calibrate Screen
+5126609   1 0000203 Option: Print Zero Tape(s)
+5126609   1 0000621 Warning: Terminal reset from voting
+5126609   1 0001003 Failed to get PEB ballot header block
+5126609   2 0001211 Terminal votes to PEB successful
+5126609   1 0001215 Terminal write-in data to PEB successful
+5126609   1 0001221 Collect terminal vote data to PEB
+5126609   1 0001222 Terminal vote collection successful
+5126609   4 0001303 Transfer PEB vote data to terminal
+5126609   1 0001319 Update PEB's terminal record
+5126609   1 0001607 Clear-n-test terminal flash successful
+5126609   1 0001626 Terminal closing initiated
+5126609   1 0001650 Terminal - exited service menus
+5126609   1 0001652 Terminal touch-screen test
+5126609   1 0001655 Terminal touch-screen recalibrated
+5126609   1 0001656 Set terminal date and/or time
+5126609   1 0001672 Terminal Opened
+5126609   1 0001673 Terminal Closed
+5126609   1 0002006 Print task was cancelled
+5126609   1 0002010 Print cumulative zeros tape
+5126609   1 0002016 Election or audit report task completed
+5126609   1 0002210 PEB block CRC error
+5126609   1 0002810 Terminal - time to close voting
+5126609 119 0002900 Vote cast by voter - Visual
+
+5127330   1 0000116 Select: Configure Terminal
+5127330   1 0000117 Select: Set Time and Date
+5127330   1 0000169 Select: Calibrate Screen
+5127330   2 0000621 Warning: Terminal reset from voting
+5127330   2 0001211 Terminal votes to PEB successful
+5127330   1 0001215 Terminal write-in data to PEB successful
+5127330   1 0001221 Collect terminal vote data to PEB
+5127330   1 0001222 Terminal vote collection successful
+5127330   3 0001303 Transfer PEB vote data to terminal
+5127330   1 0001319 Update PEB's terminal record
+5127330   1 0001518 Vote cancelled - terminal problem
+5127330   1 0001607 Clear-n-test terminal flash successful
+5127330   1 0001626 Terminal closing initiated
+5127330   1 0001650 Terminal - exited service menus
+5127330   1 0001652 Terminal touch-screen test
+5127330   1 0001655 Terminal touch-screen recalibrated
+5127330   1 0001656 Set terminal date and/or time
+5127330   1 0001672 Terminal Opened
+5127330   1 0001673 Terminal Closed
+5127330   1 0002210 PEB block CRC error
+5127330   1 0002810 Terminal - time to close voting
+5127330 117 0002900 Vote cast by voter - Visual
+
+5127556   1 0000116 Select: Configure Terminal
+5127556   1 0000117 Select: Set Time and Date
+5127556   1 0000169 Select: Calibrate Screen
+5127556   2 0001211 Terminal votes to PEB successful
+5127556   1 0001215 Terminal write-in data to PEB successful
+5127556   1 0001221 Collect terminal vote data to PEB
+5127556   1 0001222 Terminal vote collection successful
+5127556   3 0001303 Transfer PEB vote data to terminal
+5127556   1 0001319 Update PEB's terminal record
+5127556   1 0001607 Clear-n-test terminal flash successful
+5127556   1 0001626 Terminal closing initiated
+5127556   1 0001650 Terminal - exited service menus
+5127556   1 0001652 Terminal touch-screen test
+5127556   1 0001655 Terminal touch-screen recalibrated
+5127556   1 0001656 Set terminal date and/or time
+5127556   1 0001672 Terminal Opened
+5127556   1 0001673 Terminal Closed
+5127556   1 0002810 Terminal - time to close voting
+5127556  92 0002900 Vote cast by voter - Visual
+
+5128365   3 0000114 Select: Setup & Configuration Menu
+5128365   4 0000116 Select: Configure Terminal
+5128365   4 0000117 Select: Set Time and Date
+5128365   1 0000169 Select: Calibrate Screen
+5128365   1 0000203 Option: Print Zero Tape(s)
+5128365   3 0000300 Start password procedure
+5128365  10 0000621 Warning: Terminal reset from voting
+5128365   2 0001211 Terminal votes to PEB successful
+5128365   1 0001215 Terminal write-in data to PEB successful
+5128365   1 0001221 Collect terminal vote data to PEB
+5128365   1 0001222 Terminal vote collection successful
+5128365   4 0001303 Transfer PEB vote data to terminal
+5128365   1 0001319 Update PEB's terminal record
+5128365   1 0001607 Clear-n-test terminal flash successful
+5128365   1 0001626 Terminal closing initiated
+5128365   3 0001649 Terminal - entered service menus
+5128365   5 0001650 Terminal - exited service menus
+5128365   1 0001652 Terminal touch-screen test
+5128365   1 0001655 Terminal touch-screen recalibrated
+5128365   4 0001656 Set terminal date and/or time
+5128365   1 0001672 Terminal Opened
+5128365   1 0001673 Terminal Closed
+5128365   1 0002006 Print task was cancelled
+5128365   1 0002010 Print cumulative zeros tape
+5128365   1 0002016 Election or audit report task completed
+5128365   1 0002810 Terminal - time to close voting
+5128365 226 0002900 Vote cast by voter - Visual
+
+5129509   1 0000116 Select: Configure Terminal
+5129509   2 0000117 Select: Set Time and Date
+5129509   1 0000169 Select: Calibrate Screen
+5129509   2 0001211 Terminal votes to PEB successful
+5129509   1 0001215 Terminal write-in data to PEB successful
+5129509   1 0001221 Collect terminal vote data to PEB
+5129509   1 0001222 Terminal vote collection successful
+5129509   3 0001303 Transfer PEB vote data to terminal
+5129509   1 0001319 Update PEB's terminal record
+5129509   1 0001607 Clear-n-test terminal flash successful
+5129509   1 0001626 Terminal closing initiated
+5129509   1 0001650 Terminal - exited service menus
+5129509   1 0001652 Terminal touch-screen test
+5129509   1 0001655 Terminal touch-screen recalibrated
+5129509   2 0001656 Set terminal date and/or time
+5129509   1 0001672 Terminal Opened
+5129509   1 0001673 Terminal Closed
+5129509   1 0002810 Terminal - time to close voting
+5129509  47 0002900 Vote cast by voter - Visual
+
+5130049   1 0000116 Select: Configure Terminal
+5130049   1 0000117 Select: Set Time and Date
+5130049   2 0000169 Select: Calibrate Screen
+5130049   1 0000203 Option: Print Zero Tape(s)
+5130049   2 0001211 Terminal votes to PEB successful
+5130049   1 0001215 Terminal write-in data to PEB successful
+5130049   1 0001221 Collect terminal vote data to PEB
+5130049   1 0001222 Terminal vote collection successful
+5130049   4 0001303 Transfer PEB vote data to terminal
+5130049   1 0001319 Update PEB's terminal record
+5130049   1 0001607 Clear-n-test terminal flash successful
+5130049   1 0001626 Terminal closing initiated
+5130049   1 0001650 Terminal - exited service menus
+5130049   1 0001652 Terminal touch-screen test
+5130049   1 0001654 Cancel terminal screen calibration
+5130049   1 0001655 Terminal touch-screen recalibrated
+5130049   1 0001656 Set terminal date and/or time
+5130049   1 0001672 Terminal Opened
+5130049   1 0001673 Terminal Closed
+5130049   1 0002006 Print task was cancelled
+5130049   1 0002010 Print cumulative zeros tape
+5130049   1 0002016 Election or audit report task completed
+5130049   1 0002810 Terminal - time to close voting
+5130049  40 0002900 Vote cast by voter - Visual
+
+5130227   1 0001206 Vote data transfer to non-master PEB
+5130227   2 0001211 Terminal votes to PEB successful
+5130227   1 0001215 Terminal write-in data to PEB successful
+5130227   2 0001221 Collect terminal vote data to PEB
+5130227   1 0001222 Terminal vote collection successful
+5130227   5 0001303 Transfer PEB vote data to terminal
+5130227   1 0001319 Update PEB's terminal record
+5130227   1 0001607 Clear-n-test terminal flash successful
+5130227   1 0001615 Opening terminal failed - PEB contains votes
+5130227   2 0001626 Terminal closing initiated
+5130227   1 0001672 Terminal Opened
+5130227   1 0001673 Terminal Closed
+5130227   2 0002810 Terminal - time to close voting
+5130227  59 0002900 Vote cast by voter - Visual
+
+5130325   1 0000116 Select: Configure Terminal
+5130325   1 0000117 Select: Set Time and Date
+5130325   2 0000118 Select: Enable Audio Ballot
+5130325   1 0000169 Select: Calibrate Screen
+5130325   1 0000621 Warning: Terminal reset from voting
+5130325   2 0001211 Terminal votes to PEB successful
+5130325   1 0001215 Terminal write-in data to PEB successful
+5130325   1 0001221 Collect terminal vote data to PEB
+5130325   1 0001222 Terminal vote collection successful
+5130325   3 0001303 Transfer PEB vote data to terminal
+5130325   1 0001319 Update PEB's terminal record
+5130325   1 0001519 Vote cancelled - other reason
+5130325   1 0001607 Clear-n-test terminal flash successful
+5130325   1 0001626 Terminal closing initiated
+5130325   1 0001650 Terminal - exited service menus
+5130325   1 0001652 Terminal touch-screen test
+5130325   1 0001655 Terminal touch-screen recalibrated
+5130325   1 0001656 Set terminal date and/or time
+5130325   1 0001672 Terminal Opened
+5130325   1 0001673 Terminal Closed
+5130325   1 0002810 Terminal - time to close voting
+5130325  68 0002900 Vote cast by voter - Visual
+
+5130430   1 0000107 Select: Election Services Menu
+5130430   1 0000110 Select: Close Terminal Early
+5130430   1 0000116 Select: Configure Terminal
+5130430   1 0000117 Select: Set Time and Date
+5130430   4 0000169 Select: Calibrate Screen
+5130430   1 0000300 Start password procedure
+5130430   1 0000301 Start override password procedure
+5130430   2 0000621 Warning: Terminal reset from voting
+5130430   2 0001211 Terminal votes to PEB successful
+5130430   1 0001215 Terminal write-in data to PEB successful
+5130430   1 0001221 Collect terminal vote data to PEB
+5130430   1 0001222 Terminal vote collection successful
+5130430   3 0001303 Transfer PEB vote data to terminal
+5130430   1 0001319 Update PEB's terminal record
+5130430   1 0001607 Clear-n-test terminal flash successful
+5130430   1 0001626 Terminal closing initiated
+5130430   1 0001628 Warning - terminal closed early
+5130430   1 0001629 Override early terminal closing
+5130430   3 0001649 Terminal - entered service menus
+5130430   3 0001650 Terminal - exited service menus
+5130430   1 0001651 Warning - cannot read terminal screen
+5130430   4 0001652 Terminal touch-screen test
+5130430   4 0001655 Terminal touch-screen recalibrated
+5130430   1 0001656 Set terminal date and/or time
+5130430   1 0001672 Terminal Opened
+5130430   1 0001673 Terminal Closed
+5130430  22 0002900 Vote cast by voter - Visual
+
+5130530   1 0000116 Select: Configure Terminal
+5130530   1 0000117 Select: Set Time and Date
+5130530   1 0000203 Option: Print Zero Tape(s)
+5130530   2 0001211 Terminal votes to PEB successful
+5130530   1 0001215 Terminal write-in data to PEB successful
+5130530   1 0001221 Collect terminal vote data to PEB
+5130530   1 0001222 Terminal vote collection successful
+5130530   3 0001303 Transfer PEB vote data to terminal
+5130530   1 0001319 Update PEB's terminal record
+5130530   1 0001607 Clear-n-test terminal flash successful
+5130530   1 0001626 Terminal closing initiated
+5130530   1 0001650 Terminal - exited service menus
+5130530   1 0001656 Set terminal date and/or time
+5130530   1 0001672 Terminal Opened
+5130530   1 0001673 Terminal Closed
+5130530   1 0002006 Print task was cancelled
+5130530   1 0002810 Terminal - time to close voting
+5130530 124 0002900 Vote cast by voter - Visual
+
+5131350   2 0000114 Select: Setup & Configuration Menu
+5131350   2 0000116 Select: Configure Terminal
+5131350   2 0000117 Select: Set Time and Date
+5131350   1 0000169 Select: Calibrate Screen
+5131350   2 0000300 Start password procedure
+5131350   1 0000302 Password procedure cancelled
+5131350   2 0000621 Warning: Terminal reset from voting
+5131350   2 0001211 Terminal votes to PEB successful
+5131350   1 0001215 Terminal write-in data to PEB successful
+5131350   1 0001221 Collect terminal vote data to PEB
+5131350   1 0001222 Terminal vote collection successful
+5131350   3 0001303 Transfer PEB vote data to terminal
+5131350   1 0001319 Update PEB's terminal record
+5131350   2 0001513 Vote cancelled - wrong ballot
+5131350   2 0001517 Vote cancelled - printer problem
+5131350   1 0001518 Vote cancelled - terminal problem
+5131350   1 0001607 Clear-n-test terminal flash successful
+5131350   1 0001626 Terminal closing initiated
+5131350   1 0001650 Terminal - exited service menus
+5131350   1 0001652 Terminal touch-screen test
+5131350   1 0001655 Terminal touch-screen recalibrated
+5131350   2 0001656 Set terminal date and/or time
+5131350   1 0001672 Terminal Opened
+5131350   1 0001673 Terminal Closed
+5131350   2 0002810 Terminal - time to close voting
+5131350 140 0002900 Vote cast by voter - Visual
+5131350   1 0002905 Vote cast by poll worker - Audio
+
+5135415   1 0000116 Select: Configure Terminal
+5135415   1 0000117 Select: Set Time and Date
+5135415   1 0000169 Select: Calibrate Screen
+5135415   2 0001211 Terminal votes to PEB successful
+5135415   1 0001215 Terminal write-in data to PEB successful
+5135415   1 0001221 Collect terminal vote data to PEB
+5135415   1 0001222 Terminal vote collection successful
+5135415   3 0001303 Transfer PEB vote data to terminal
+5135415   1 0001319 Update PEB's terminal record
+5135415   3 0001518 Vote cancelled - terminal problem
+5135415   1 0001607 Clear-n-test terminal flash successful
+5135415   1 0001626 Terminal closing initiated
+5135415   1 0001650 Terminal - exited service menus
+5135415   1 0001652 Terminal touch-screen test
+5135415   1 0001655 Terminal touch-screen recalibrated
+5135415   1 0001656 Set terminal date and/or time
+5135415   1 0001672 Terminal Opened
+5135415   1 0001673 Terminal Closed
+5135415   1 0002810 Terminal - time to close voting
+5135415  91 0002900 Vote cast by voter - Visual
+5135415   1 0002903 Vote cast by poll worker - Visual
+
+
+5136122   1 0000116 Select: Configure Terminal
+5136122   1 0000117 Select: Set Time and Date
+5136122  22 0000167 Select: Lock Terminal
+5136122   9 0000168 Select: Unlock Terminal
+5136122   1 0000169 Select: Calibrate Screen
+5136122   1 0000203 Option: Print Zero Tape(s)
+5136122  68 0000300 Start password procedure
+5136122  24 0000302 Password procedure cancelled
+5136122  20 0000621 Warning: Terminal reset from voting
+5136122   1 0000710 PEB EQC mismatch to terminal config EQC
+5136122   2 0001211 Terminal votes to PEB successful
+5136122   1 0001215 Terminal write-in data to PEB successful
+5136122   1 0001221 Collect terminal vote data to PEB
+5136122   1 0001222 Terminal vote collection successful
+5136122   4 0001303 Transfer PEB vote data to terminal
+5136122   1 0001319 Update PEB's terminal record
+5136122   1 0001519 Vote cancelled - other reason
+5136122   1 0001607 Clear-n-test terminal flash successful
+5136122   1 0001626 Terminal closing initiated
+5136122  22 0001639 Terminal is locked
+5136122  22 0001640 Terminal is unlocked
+5136122  33 0001649 Terminal - entered service menus
+5136122   2 0001650 Terminal - exited service menus
+5136122   1 0001651 Warning - cannot read terminal screen
+5136122   1 0001652 Terminal touch-screen test
+5136122   1 0001655 Terminal touch-screen recalibrated
+5136122   1 0001656 Set terminal date and/or time
+5136122   1 0001672 Terminal Opened
+5136122   1 0001673 Terminal Closed
+5136122   2 0001751 Super PEB type - Key PEB
+5136122   1 0002006 Print task was cancelled
+5136122   1 0002010 Print cumulative zeros tape
+5136122   1 0002016 Election or audit report task completed
+5136122  22 0002807 Terminal - locked state
+5136122   1 0002810 Terminal - time to close voting
+5136122   5 0002900 Vote cast by voter - Visual
+5136122 384 0002909 Vote cast by voter - Visual - CODED **
+
+5138430   1 0000116 Select: Configure Terminal
+5138430   1 0000117 Select: Set Time and Date
+5138430   1 0000169 Select: Calibrate Screen
+5138430   1 0000203 Option: Print Zero Tape(s)
+5138430   4 0000621 Warning: Terminal reset from voting
+5138430   2 0001211 Terminal votes to PEB successful
+5138430   1 0001215 Terminal write-in data to PEB successful
+5138430   1 0001221 Collect terminal vote data to PEB
+5138430   1 0001222 Terminal vote collection successful
+5138430   3 0001303 Transfer PEB vote data to terminal
+5138430   1 0001319 Update PEB's terminal record
+5138430   3 0001513 Vote cancelled - wrong ballot
+5138430   1 0001515 Vote canceled - voter left before ballot
+5138430   1 0001518 Vote cancelled - terminal problem
+5138430   1 0001607 Clear-n-test terminal flash successful
+5138430   1 0001626 Terminal closing initiated
+5138430   1 0001650 Terminal - exited service menus
+5138430   1 0001652 Terminal touch-screen test
+5138430   1 0001655 Terminal touch-screen recalibrated
+5138430   1 0001656 Set terminal date and/or time
+5138430   1 0001672 Terminal Opened
+5138430   1 0001673 Terminal Closed
+5138430   1 0002006 Print task was cancelled
+5138430   1 0002810 Terminal - time to close voting
+5138430  59 0002900 Vote cast by voter - Visual
+
+5138574   1 0000116 Select: Configure Terminal
+5138574   1 0000117 Select: Set Time and Date
+5138574   9 0000621 Warning: Terminal reset from voting
+5138574   2 0001211 Terminal votes to PEB successful
+5138574   1 0001215 Terminal write-in data to PEB successful
+5138574   1 0001221 Collect terminal vote data to PEB
+5138574   1 0001222 Terminal vote collection successful
+5138574   3 0001303 Transfer PEB vote data to terminal
+5138574   1 0001319 Update PEB's terminal record
+5138574   1 0001607 Clear-n-test terminal flash successful
+5138574   1 0001626 Terminal closing initiated
+5138574   1 0001650 Terminal - exited service menus
+5138574   1 0001651 Warning - cannot read terminal screen
+5138574   1 0001656 Set terminal date and/or time
+5138574   1 0001672 Terminal Opened
+5138574   1 0001673 Terminal Closed
+5138574   1 0002810 Terminal - time to close voting
+5138574 126 0002900 Vote cast by voter - Visual
+
+Total number of iVos dumped: 34
+Total number of events dumped: 5947
