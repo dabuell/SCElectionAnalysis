@@ -15,7 +15,8 @@ with a "configuration" file.  I tend to label data files and such with
 file names starting with 'x', 'y', or 'z' so they collate to the bottom
 of a list of files and I can see them.
 
-The 'zconfigfile' file is what I used for the June primary.
+The 'zconfigfile' file is what I used for the 2018 primary and general
+election.
 The driver reads only what it needs:
 * The directory that fills out the path to the data.
 * The date of Election Day.
@@ -31,8 +32,8 @@ names further down in the file.
 
 So the current configuration file starts out:
 
-DATA2018FirstPrimary
-2018_06_12
+DATA2018GeneralElection
+2018_11_06
 07:00:00
 19:00:00
 05:30:00
